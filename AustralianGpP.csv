@@ -1,0 +1,23 @@
+DriverNumber,DriverId,TeamName,TeamId,FirstName,LastName,FullName,Position,GridPosition,Q1,Q2,Q3,Time,Status,Points,Laps
+63,russell,Mercedes,mercedes,George,Russell,George Russell,1.0,1.0,,,,0 days 01:23:06.801000,Finished,25.0,58.0
+12,antonelli,Mercedes,mercedes,Kimi,Antonelli,Kimi Antonelli,2.0,2.0,,,,0 days 00:00:02.974000,Finished,18.0,58.0
+16,leclerc,Ferrari,ferrari,Charles,Leclerc,Charles Leclerc,3.0,4.0,,,,0 days 00:00:15.519000,Finished,15.0,58.0
+44,hamilton,Ferrari,ferrari,Lewis,Hamilton,Lewis Hamilton,4.0,7.0,,,,0 days 00:00:16.144000,Finished,12.0,58.0
+1,norris,McLaren,mclaren,Lando,Norris,Lando Norris,5.0,6.0,,,,0 days 00:00:51.741000,Finished,10.0,58.0
+3,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,6.0,20.0,,,,0 days 00:00:54.617000,Finished,8.0,58.0
+87,bearman,Haas F1 Team,haas,Oliver,Bearman,Oliver Bearman,7.0,12.0,,,,0 days 00:00:04.593000,Lapped,6.0,57.0
+41,arvid_lindblad,Racing Bulls,rb,Arvid,Lindblad,Arvid Lindblad,8.0,9.0,,,,0 days 00:00:11.816000,Lapped,4.0,57.0
+5,bortoleto,Audi,audi,Gabriel,Bortoleto,Gabriel Bortoleto,9.0,10.0,,,,0 days 00:00:12.775000,Lapped,2.0,57.0
+10,gasly,Alpine,alpine,Pierre,Gasly,Pierre Gasly,10.0,14.0,,,,0 days 00:00:29.027000,Lapped,1.0,57.0
+31,ocon,Haas F1 Team,haas,Esteban,Ocon,Esteban Ocon,11.0,13.0,,,,0 days 00:00:29.850000,Lapped,0.0,57.0
+23,albon,Williams,williams,Alexander,Albon,Alexander Albon,12.0,15.0,,,,0 days 00:00:56.075000,Lapped,0.0,57.0
+30,lawson,Racing Bulls,rb,Liam,Lawson,Liam Lawson,13.0,8.0,,,,0 days 00:00:57.173000,Lapped,0.0,57.0
+43,colapinto,Alpine,alpine,Franco,Colapinto,Franco Colapinto,14.0,16.0,,,,0 days 00:00:08.487000,Lapped,0.0,56.0
+55,sainz,Williams,williams,Carlos,Sainz,Carlos Sainz,15.0,21.0,,,,0 days 00:00:36.886000,Lapped,0.0,56.0
+11,perez,Cadillac,cadillac,Sergio,Perez,Sergio Perez,16.0,18.0,,,,0 days 00:00:07.850000,Lapped,0.0,55.0
+18,stroll,Aston Martin,aston_martin,Lance,Stroll,Lance Stroll,17.0,22.0,,,,,Lapped,0.0,43.0
+14,alonso,Aston Martin,aston_martin,Fernando,Alonso,Fernando Alonso,18.0,17.0,,,,,Retired,0.0,21.0
+77,bottas,Cadillac,cadillac,Valtteri,Bottas,Valtteri Bottas,19.0,19.0,,,,,Retired,0.0,15.0
+6,hadjar,Red Bull Racing,red_bull,Isack,Hadjar,Isack Hadjar,20.0,3.0,,,,,Retired,0.0,10.0
+81,piastri,McLaren,mclaren,Oscar,Piastri,Oscar Piastri,21.0,5.0,,,,,Did not start,0.0,0.0
+27,hulkenberg,Audi,audi,Nico,Hulkenberg,Nico Hulkenberg,22.0,11.0,,,,,Did not start,0.0,0.0
