@@ -259,3 +259,183 @@ DriverNumber,FullName,TeamName,GridPosition,Q1_seconds,Q2_seconds,Q3_seconds,Rac
 88,Robert Kubica,Alfa Romeo Racing,18.0,71.301,,,15.0,+2 Laps,0.0,,2021,13,Dutch Grand Prix,15.0
 47,Mick Schumacher,Haas F1 Team,19.0,71.387,,,18.0,+3 Laps,0.0,,2021,13,Dutch Grand Prix,18.0
 9,Nikita Mazepin,Haas F1 Team,20.0,71.875,,,20.0,Hydraulics,0.0,,2021,13,Dutch Grand Prix,20.0
+77,Valtteri Bottas,Mercedes,1.0,80.685,80.032,79.555,3.0,Finished,15.0,4.921,2021,14,Italian Grand Prix,3.0
+44,Lewis Hamilton,Mercedes,2.0,80.543,79.936,79.651,17.0,Collision,0.0,,2021,14,Italian Grand Prix,17.0
+33,Max Verstappen,Red Bull Racing,3.0,81.035,80.229,79.966,18.0,Collision,0.0,,2021,14,Italian Grand Prix,18.0
+4,Lando Norris,McLaren,4.0,80.916,80.059,79.989,2.0,Finished,18.0,1.747,2021,14,Italian Grand Prix,2.0
+3,Daniel Ricciardo,McLaren,5.0,81.292,80.435,79.995,1.0,Finished,26.0,4914.365,2021,14,Italian Grand Prix,1.0
+10,Pierre Gasly,AlphaTauri,6.0,81.44,80.556,80.26,19.0,Suspension,0.0,,2021,14,Italian Grand Prix,19.0
+55,Carlos Sainz,Ferrari,7.0,81.118,80.75,80.462,6.0,Finished,8.0,10.535,2021,14,Italian Grand Prix,6.0
+16,Charles Leclerc,Ferrari,8.0,81.219,80.767,80.51,4.0,Finished,12.0,7.309,2021,14,Italian Grand Prix,4.0
+11,Sergio Perez,Red Bull Racing,9.0,81.308,80.882,80.611,5.0,Finished,10.0,8.723,2021,14,Italian Grand Prix,5.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,10.0,81.197,80.726,80.808,13.0,Finished,0.0,27.216,2021,14,Italian Grand Prix,13.0
+5,Sebastian Vettel,Aston Martin,11.0,81.394,80.913,,12.0,Finished,0.0,24.621,2021,14,Italian Grand Prix,12.0
+18,Lance Stroll,Aston Martin,12.0,81.415,81.02,,7.0,Finished,6.0,15.804,2021,14,Italian Grand Prix,7.0
+14,Fernando Alonso,Alpine,13.0,81.487,81.069,,8.0,Finished,4.0,17.201,2021,14,Italian Grand Prix,8.0
+31,Esteban Ocon,Alpine,14.0,81.5,81.103,,10.0,Finished,1.0,20.868,2021,14,Italian Grand Prix,10.0
+63,George Russell,Williams,15.0,81.89,81.392,,9.0,Finished,2.0,19.742,2021,14,Italian Grand Prix,9.0
+6,Nicholas Latifi,Williams,16.0,81.925,,,11.0,Finished,0.0,23.743,2021,14,Italian Grand Prix,11.0
+22,Yuki Tsunoda,AlphaTauri,17.0,81.973,,,20.0,Brakes,0.0,,2021,14,Italian Grand Prix,20.0
+47,Mick Schumacher,Haas F1 Team,18.0,82.248,,,15.0,Finished,0.0,51.088,2021,14,Italian Grand Prix,15.0
+88,Robert Kubica,Alfa Romeo Racing,19.0,82.53,,,14.0,Finished,0.0,29.769,2021,14,Italian Grand Prix,14.0
+9,Nikita Mazepin,Haas F1 Team,20.0,82.716,,,16.0,Power Unit,0.0,,2021,14,Italian Grand Prix,16.0
+4,Lando Norris,McLaren,1.0,107.238,105.827,101.993,7.0,Finished,7.0,87.224,2021,15,Russian Grand Prix,7.0
+55,Carlos Sainz,Ferrari,2.0,107.924,106.521,102.51,3.0,Finished,15.0,62.475,2021,15,Russian Grand Prix,3.0
+63,George Russell,Williams,3.0,108.303,106.435,102.983,10.0,Finished,1.0,100.551,2021,15,Russian Grand Prix,10.0
+44,Lewis Hamilton,Mercedes,4.0,105.992,105.129,104.05,1.0,Finished,25.0,5441.001,2021,15,Russian Grand Prix,1.0
+3,Daniel Ricciardo,McLaren,5.0,108.345,106.361,104.156,4.0,Finished,12.0,65.607,2021,15,Russian Grand Prix,4.0
+14,Fernando Alonso,Alpine,6.0,107.877,105.514,104.204,6.0,Finished,8.0,81.321,2021,15,Russian Grand Prix,6.0
+77,Valtteri Bottas,Mercedes,7.0,106.396,105.306,104.71,5.0,Finished,10.0,67.533,2021,15,Russian Grand Prix,5.0
+18,Lance Stroll,Aston Martin,8.0,108.322,106.36,104.956,11.0,Finished,0.0,106.198,2021,15,Russian Grand Prix,11.0
+11,Sergio Perez,Red Bull Racing,9.0,106.455,105.834,105.337,9.0,Finished,2.0,90.076,2021,15,Russian Grand Prix,9.0
+31,Esteban Ocon,Alpine,10.0,108.099,106.07,105.865,14.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,14.0
+5,Sebastian Vettel,Aston Martin,11.0,107.205,106.573,,12.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,12.0
+10,Pierre Gasly,AlphaTauri,12.0,107.828,106.641,,13.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,13.0
+22,Yuki Tsunoda,AlphaTauri,13.0,108.854,106.751,,17.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,17.0
+6,Nicholas Latifi,Williams,14.0,108.252,,,19.0,Accident,0.0,,2021,15,Russian Grand Prix,19.0
+16,Charles Leclerc,Ferrari,15.0,108.47,,,15.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,15.0
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,109.586,,,8.0,Finished,4.0,88.955,2021,15,Russian Grand Prix,8.0
+47,Mick Schumacher,Haas F1 Team,17.0,109.83,,,20.0,Oil leak,0.0,,2021,15,Russian Grand Prix,20.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,111.023,,,16.0,+1 Lap,0.0,,2021,15,Russian Grand Prix,16.0
+9,Nikita Mazepin,Haas F1 Team,19.0,113.764,,,18.0,+2 Laps,0.0,,2021,15,Russian Grand Prix,18.0
+33,Max Verstappen,Red Bull Racing,20.0,,,,2.0,Finished,18.0,53.271,2021,15,Russian Grand Prix,2.0
+44,Lewis Hamilton,Mercedes,1.0,84.585,83.082,82.868,5.0,Finished,10.0,41.812,2021,16,Turkish Grand Prix,5.0
+77,Valtteri Bottas,Mercedes,2.0,85.047,83.579,82.998,1.0,Finished,26.0,5464.103,2021,16,Turkish Grand Prix,1.0
+33,Max Verstappen,Red Bull Racing,3.0,84.592,83.732,83.196,2.0,Finished,18.0,14.584,2021,16,Turkish Grand Prix,2.0
+16,Charles Leclerc,Ferrari,4.0,84.869,84.015,83.265,4.0,Finished,12.0,37.814,2021,16,Turkish Grand Prix,4.0
+10,Pierre Gasly,AlphaTauri,5.0,84.704,83.817,83.326,6.0,Finished,8.0,44.292,2021,16,Turkish Grand Prix,6.0
+14,Fernando Alonso,Alpine,6.0,85.174,83.914,83.477,16.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,16.0
+11,Sergio Perez,Red Bull Racing,7.0,84.963,83.961,83.706,3.0,Finished,15.0,33.471,2021,16,Turkish Grand Prix,3.0
+4,Lando Norris,McLaren,8.0,85.138,84.642,83.954,7.0,Finished,6.0,47.213,2021,16,Turkish Grand Prix,7.0
+18,Lance Stroll,Aston Martin,9.0,85.511,84.601,84.305,9.0,Finished,2.0,82.018,2021,16,Turkish Grand Prix,9.0
+22,Yuki Tsunoda,AlphaTauri,10.0,85.409,84.054,84.368,14.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,14.0
+5,Sebastian Vettel,Aston Martin,11.0,85.787,84.795,,18.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,18.0
+31,Esteban Ocon,Alpine,12.0,85.422,84.842,,10.0,+1 Lap,1.0,,2021,16,Turkish Grand Prix,10.0
+63,George Russell,Williams,13.0,85.417,85.007,,15.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,15.0
+47,Mick Schumacher,Haas F1 Team,14.0,85.555,85.2,,19.0,+2 Laps,0.0,,2021,16,Turkish Grand Prix,19.0
+55,Carlos Sainz,Ferrari,15.0,85.177,,,8.0,Finished,4.0,51.526,2021,16,Turkish Grand Prix,8.0
+3,Daniel Ricciardo,McLaren,16.0,85.881,,,13.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,13.0
+6,Nicholas Latifi,Williams,17.0,86.086,,,17.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,17.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,86.43,,,11.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,11.0
+7,Kimi Räikkönen,Alfa Romeo Racing,19.0,87.525,,,12.0,+1 Lap,0.0,,2021,16,Turkish Grand Prix,12.0
+9,Nikita Mazepin,Haas F1 Team,20.0,88.449,,,20.0,+2 Laps,0.0,,2021,16,Turkish Grand Prix,20.0
+33,Max Verstappen,Red Bull Racing,1.0,94.352,93.464,92.91,1.0,Finished,25.0,5676.552,2021,17,United States Grand Prix,1.0
+44,Lewis Hamilton,Mercedes,2.0,94.579,93.797,93.119,2.0,Finished,19.0,1.333,2021,17,United States Grand Prix,2.0
+11,Sergio Perez,Red Bull Racing,3.0,94.369,94.178,93.134,3.0,Finished,15.0,42.223,2021,17,United States Grand Prix,3.0
+77,Valtteri Bottas,Mercedes,4.0,94.59,93.959,93.475,6.0,Finished,8.0,80.128,2021,17,United States Grand Prix,6.0
+16,Charles Leclerc,Ferrari,5.0,94.153,93.928,93.606,4.0,Finished,12.0,52.246,2021,17,United States Grand Prix,4.0
+55,Carlos Sainz,Ferrari,6.0,94.558,94.126,93.792,7.0,Finished,6.0,83.545,2021,17,United States Grand Prix,7.0
+3,Daniel Ricciardo,McLaren,7.0,94.407,94.643,93.808,5.0,Finished,10.0,76.854,2021,17,United States Grand Prix,5.0
+4,Lando Norris,McLaren,8.0,94.551,93.88,93.887,8.0,Finished,4.0,84.395,2021,17,United States Grand Prix,8.0
+10,Pierre Gasly,AlphaTauri,9.0,94.567,94.583,94.118,20.0,Suspension,0.0,,2021,17,United States Grand Prix,20.0
+22,Yuki Tsunoda,AlphaTauri,10.0,95.36,95.137,94.918,9.0,+1 Lap,2.0,,2021,17,United States Grand Prix,9.0
+31,Esteban Ocon,Alpine,11.0,95.747,95.377,,19.0,Mechanical,0.0,,2021,17,United States Grand Prix,19.0
+5,Sebastian Vettel,Aston Martin,12.0,95.281,95.5,,10.0,+1 Lap,1.0,,2021,17,United States Grand Prix,10.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,13.0,95.92,95.794,,11.0,+1 Lap,0.0,,2021,17,United States Grand Prix,11.0
+14,Fernando Alonso,Alpine,14.0,95.756,104.549,,18.0,Rear wing,0.0,,2021,17,United States Grand Prix,18.0
+63,George Russell,Williams,15.0,95.746,,,14.0,+1 Lap,0.0,,2021,17,United States Grand Prix,14.0
+18,Lance Stroll,Aston Martin,16.0,95.983,,,12.0,+1 Lap,0.0,,2021,17,United States Grand Prix,12.0
+6,Nicholas Latifi,Williams,17.0,95.995,,,15.0,+1 Lap,0.0,,2021,17,United States Grand Prix,15.0
+7,Kimi Räikkönen,Alfa Romeo Racing,18.0,96.311,,,13.0,+1 Lap,0.0,,2021,17,United States Grand Prix,13.0
+47,Mick Schumacher,Haas F1 Team,19.0,96.499,,,16.0,+2 Laps,0.0,,2021,17,United States Grand Prix,16.0
+9,Nikita Mazepin,Haas F1 Team,20.0,96.796,,,17.0,+2 Laps,0.0,,2021,17,United States Grand Prix,17.0
+77,Valtteri Bottas,Mercedes,1.0,76.727,76.864,75.875,15.0,+2 Laps,0.0,,2021,18,Mexico City Grand Prix,15.0
+44,Lewis Hamilton,Mercedes,2.0,77.207,76.474,76.02,2.0,Finished,18.0,16.555,2021,18,Mexico City Grand Prix,2.0
+33,Max Verstappen,Red Bull Racing,3.0,76.788,76.483,76.225,1.0,Finished,25.0,5919.086,2021,18,Mexico City Grand Prix,1.0
+11,Sergio Perez,Red Bull Racing,4.0,77.003,77.055,76.342,3.0,Finished,15.0,17.752,2021,18,Mexico City Grand Prix,3.0
+10,Pierre Gasly,AlphaTauri,5.0,76.908,76.955,76.456,4.0,Finished,12.0,63.845,2021,18,Mexico City Grand Prix,4.0
+55,Carlos Sainz,Ferrari,6.0,77.517,77.248,76.761,6.0,+1 Lap,8.0,,2021,18,Mexico City Grand Prix,6.0
+3,Daniel Ricciardo,McLaren,7.0,77.719,77.092,76.763,12.0,+1 Lap,0.0,,2021,18,Mexico City Grand Prix,12.0
+16,Charles Leclerc,Ferrari,8.0,76.748,77.034,76.837,5.0,Finished,10.0,81.037,2021,18,Mexico City Grand Prix,5.0
+22,Yuki Tsunoda,AlphaTauri,9.0,77.33,76.701,77.158,20.0,Collision,0.0,,2021,18,Mexico City Grand Prix,20.0
+4,Lando Norris,McLaren,10.0,77.569,77.473,96.83,10.0,+1 Lap,1.0,,2021,18,Mexico City Grand Prix,10.0
+5,Sebastian Vettel,Aston Martin,11.0,77.502,77.746,,7.0,+1 Lap,6.0,,2021,18,Mexico City Grand Prix,7.0
+7,Kimi Räikkönen,Alfa Romeo Racing,12.0,77.606,77.958,,8.0,+1 Lap,4.0,,2021,18,Mexico City Grand Prix,8.0
+63,George Russell,Williams,13.0,77.958,78.172,,16.0,+2 Laps,0.0,,2021,18,Mexico City Grand Prix,16.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,77.897,78.29,,11.0,+1 Lap,0.0,,2021,18,Mexico City Grand Prix,11.0
+31,Esteban Ocon,Alpine,15.0,78.126,78.405,,13.0,+1 Lap,0.0,,2021,18,Mexico City Grand Prix,13.0
+14,Fernando Alonso,Alpine,16.0,78.452,,,9.0,+1 Lap,2.0,,2021,18,Mexico City Grand Prix,9.0
+6,Nicholas Latifi,Williams,17.0,78.756,,,17.0,+2 Laps,0.0,,2021,18,Mexico City Grand Prix,17.0
+47,Mick Schumacher,Haas F1 Team,18.0,78.858,,,19.0,Collision,0.0,,2021,18,Mexico City Grand Prix,19.0
+9,Nikita Mazepin,Haas F1 Team,19.0,79.303,,,18.0,+3 Laps,0.0,,2021,18,Mexico City Grand Prix,18.0
+18,Lance Stroll,Aston Martin,20.0,80.873,,,14.0,+2 Laps,0.0,,2021,18,Mexico City Grand Prix,14.0
+44,Lewis Hamilton,Mercedes,1.0,68.733,68.068,67.934,1.0,Finished,25.0,5542.851,2021,19,São Paulo Grand Prix,1.0
+33,Max Verstappen,Red Bull Racing,2.0,69.329,68.499,68.372,2.0,Finished,18.0,10.496,2021,19,São Paulo Grand Prix,2.0
+77,Valtteri Bottas,Mercedes,3.0,69.04,68.426,68.469,3.0,Finished,15.0,13.576,2021,19,São Paulo Grand Prix,3.0
+11,Sergio Perez,Red Bull Racing,4.0,69.172,68.973,68.483,4.0,Finished,13.0,39.94,2021,19,São Paulo Grand Prix,4.0
+10,Pierre Gasly,AlphaTauri,5.0,69.347,68.903,68.777,7.0,+1 Lap,6.0,,2021,19,São Paulo Grand Prix,7.0
+55,Carlos Sainz,Ferrari,6.0,69.046,69.031,68.826,6.0,Finished,8.0,51.82,2021,19,São Paulo Grand Prix,6.0
+16,Charles Leclerc,Ferrari,7.0,69.155,68.859,68.96,5.0,Finished,10.0,49.517,2021,19,São Paulo Grand Prix,5.0
+4,Lando Norris,McLaren,8.0,69.365,69.03,68.98,10.0,+1 Lap,1.0,,2021,19,São Paulo Grand Prix,10.0
+3,Daniel Ricciardo,McLaren,9.0,69.374,69.093,69.039,19.0,Power loss,0.0,,2021,19,São Paulo Grand Prix,19.0
+14,Fernando Alonso,Alpine,10.0,69.391,69.137,69.113,9.0,+1 Lap,2.0,,2021,19,São Paulo Grand Prix,9.0
+31,Esteban Ocon,Alpine,11.0,69.43,69.189,,8.0,+1 Lap,4.0,,2021,19,São Paulo Grand Prix,8.0
+5,Sebastian Vettel,Aston Martin,12.0,69.451,69.399,,11.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,11.0
+22,Yuki Tsunoda,AlphaTauri,13.0,69.35,69.483,,15.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,15.0
+7,Kimi Räikkönen,Alfa Romeo Racing,14.0,69.598,69.503,,12.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,12.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,15.0,69.342,70.227,,14.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,14.0
+18,Lance Stroll,Aston Martin,16.0,69.663,,,20.0,Collision damage,0.0,,2021,19,São Paulo Grand Prix,20.0
+6,Nicholas Latifi,Williams,17.0,69.897,,,16.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,16.0
+63,George Russell,Williams,18.0,69.953,,,13.0,+1 Lap,0.0,,2021,19,São Paulo Grand Prix,13.0
+47,Mick Schumacher,Haas F1 Team,19.0,70.329,,,18.0,+2 Laps,0.0,,2021,19,São Paulo Grand Prix,18.0
+9,Nikita Mazepin,Haas F1 Team,20.0,70.589,,,17.0,+2 Laps,0.0,,2021,19,São Paulo Grand Prix,17.0
+44,Lewis Hamilton,Mercedes,1.0,81.901,81.682,80.827,1.0,Finished,25.0,5068.471,2021,20,Qatar Grand Prix,1.0
+33,Max Verstappen,Red Bull Racing,2.0,81.996,81.984,81.282,2.0,Finished,19.0,25.743,2021,20,Qatar Grand Prix,2.0
+77,Valtteri Bottas,Mercedes,3.0,82.016,81.991,81.478,20.0,Damage,0.0,,2021,20,Qatar Grand Prix,20.0
+10,Pierre Gasly,AlphaTauri,4.0,82.535,81.728,81.64,11.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,11.0
+14,Fernando Alonso,Alpine,5.0,82.422,81.894,81.67,3.0,Finished,15.0,59.457,2021,20,Qatar Grand Prix,3.0
+4,Lando Norris,McLaren,6.0,82.839,82.216,81.731,9.0,+1 Lap,2.0,,2021,20,Qatar Grand Prix,9.0
+55,Carlos Sainz,Ferrari,7.0,82.304,82.241,81.84,7.0,Finished,6.0,81.911,2021,20,Qatar Grand Prix,7.0
+22,Yuki Tsunoda,AlphaTauri,8.0,82.458,82.058,81.881,13.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,13.0
+31,Esteban Ocon,Alpine,9.0,82.565,82.012,82.028,5.0,Finished,10.0,80.57,2021,20,Qatar Grand Prix,5.0
+5,Sebastian Vettel,Aston Martin,10.0,82.549,82.146,82.785,10.0,+1 Lap,1.0,,2021,20,Qatar Grand Prix,10.0
+11,Sergio Perez,Red Bull Racing,11.0,82.398,82.346,,4.0,Finished,12.0,62.306,2021,20,Qatar Grand Prix,4.0
+18,Lance Stroll,Aston Martin,12.0,82.551,82.46,,6.0,Finished,8.0,81.274,2021,20,Qatar Grand Prix,6.0
+16,Charles Leclerc,Ferrari,13.0,82.742,82.463,,8.0,Finished,4.0,83.126,2021,20,Qatar Grand Prix,8.0
+3,Daniel Ricciardo,McLaren,14.0,82.688,82.597,,12.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,12.0
+63,George Russell,Williams,15.0,82.863,82.756,,17.0,+2 Laps,0.0,,2021,20,Qatar Grand Prix,17.0
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,83.156,,,14.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,14.0
+6,Nicholas Latifi,Williams,17.0,83.213,,,19.0,Puncture,0.0,,2021,20,Qatar Grand Prix,19.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,83.262,,,15.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,15.0
+47,Mick Schumacher,Haas F1 Team,19.0,83.407,,,16.0,+1 Lap,0.0,,2021,20,Qatar Grand Prix,16.0
+9,Nikita Mazepin,Haas F1 Team,20.0,85.859,,,18.0,+2 Laps,0.0,,2021,20,Qatar Grand Prix,18.0
+44,Lewis Hamilton,Mercedes,1.0,88.466,87.712,87.511,1.0,Finished,26.0,7575.118,2021,21,Saudi Arabian Grand Prix,1.0
+77,Valtteri Bottas,Mercedes,2.0,88.057,88.054,87.622,3.0,Finished,15.0,27.531,2021,21,Saudi Arabian Grand Prix,3.0
+33,Max Verstappen,Red Bull Racing,3.0,88.285,87.953,87.653,2.0,Finished,18.0,11.825,2021,21,Saudi Arabian Grand Prix,2.0
+16,Charles Leclerc,Ferrari,4.0,88.31,88.459,88.054,7.0,Finished,6.0,44.475,2021,21,Saudi Arabian Grand Prix,7.0
+11,Sergio Perez,Red Bull Racing,5.0,88.021,87.946,88.123,17.0,Collision,0.0,,2021,21,Saudi Arabian Grand Prix,17.0
+10,Pierre Gasly,AlphaTauri,6.0,88.401,88.314,88.125,6.0,Finished,8.0,41.613,2021,21,Saudi Arabian Grand Prix,6.0
+4,Lando Norris,McLaren,7.0,88.338,88.344,88.18,10.0,Finished,1.0,61.358,2021,21,Saudi Arabian Grand Prix,10.0
+22,Yuki Tsunoda,AlphaTauri,8.0,88.503,88.222,88.442,14.0,+1 Lap,0.0,,2021,21,Saudi Arabian Grand Prix,14.0
+31,Esteban Ocon,Alpine,9.0,88.752,88.574,88.647,4.0,Finished,12.0,27.633,2021,21,Saudi Arabian Grand Prix,4.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,10.0,88.899,88.616,88.754,9.0,Finished,2.0,58.505,2021,21,Saudi Arabian Grand Prix,9.0
+3,Daniel Ricciardo,McLaren,11.0,88.216,88.668,,5.0,Finished,10.0,40.121,2021,21,Saudi Arabian Grand Prix,5.0
+7,Kimi Räikkönen,Alfa Romeo Racing,12.0,88.856,88.885,,15.0,+1 Lap,0.0,,2021,21,Saudi Arabian Grand Prix,15.0
+14,Fernando Alonso,Alpine,13.0,88.944,88.92,,13.0,+1 Lap,0.0,,2021,21,Saudi Arabian Grand Prix,13.0
+63,George Russell,Williams,14.0,88.926,89.054,,19.0,Collision,0.0,,2021,21,Saudi Arabian Grand Prix,19.0
+55,Carlos Sainz,Ferrari,15.0,88.237,113.652,,8.0,Finished,4.0,46.606,2021,21,Saudi Arabian Grand Prix,8.0
+6,Nicholas Latifi,Williams,16.0,89.177,,,12.0,Finished,0.0,83.249,2021,21,Saudi Arabian Grand Prix,12.0
+5,Sebastian Vettel,Aston Martin,17.0,89.198,,,16.0,Collision damage,0.0,,2021,21,Saudi Arabian Grand Prix,16.0
+18,Lance Stroll,Aston Martin,18.0,89.368,,,11.0,Finished,0.0,77.212,2021,21,Saudi Arabian Grand Prix,11.0
+47,Mick Schumacher,Haas F1 Team,19.0,89.464,,,20.0,Accident,0.0,,2021,21,Saudi Arabian Grand Prix,20.0
+9,Nikita Mazepin,Haas F1 Team,20.0,90.473,,,18.0,Collision,0.0,,2021,21,Saudi Arabian Grand Prix,18.0
+33,Max Verstappen,Red Bull Racing,1.0,83.322,82.8,82.109,1.0,Finished,26.0,5417.345,2021,22,Abu Dhabi Grand Prix,1.0
+44,Lewis Hamilton,Mercedes,2.0,82.845,83.145,82.48,2.0,Finished,18.0,2.256,2021,22,Abu Dhabi Grand Prix,2.0
+4,Lando Norris,McLaren,3.0,83.553,83.256,82.931,7.0,Finished,6.0,59.2,2021,22,Abu Dhabi Grand Prix,7.0
+11,Sergio Perez,Red Bull Racing,4.0,83.35,83.135,82.947,15.0,Engine,0.0,,2021,22,Abu Dhabi Grand Prix,15.0
+55,Carlos Sainz,Ferrari,5.0,83.624,83.174,82.992,3.0,Finished,15.0,5.173,2021,22,Abu Dhabi Grand Prix,3.0
+77,Valtteri Bottas,Mercedes,6.0,83.117,83.246,83.036,6.0,Finished,8.0,7.463,2021,22,Abu Dhabi Grand Prix,6.0
+16,Charles Leclerc,Ferrari,7.0,83.467,83.202,83.122,10.0,Finished,1.0,66.057,2021,22,Abu Dhabi Grand Prix,10.0
+22,Yuki Tsunoda,AlphaTauri,8.0,83.428,83.404,83.22,4.0,Finished,12.0,5.692,2021,22,Abu Dhabi Grand Prix,4.0
+31,Esteban Ocon,Alpine,9.0,83.764,83.42,83.389,9.0,Finished,2.0,64.026,2021,22,Abu Dhabi Grand Prix,9.0
+3,Daniel Ricciardo,McLaren,10.0,83.829,83.448,83.409,12.0,+1 Lap,0.0,,2021,22,Abu Dhabi Grand Prix,12.0
+14,Fernando Alonso,Alpine,11.0,83.846,83.46,,8.0,Finished,4.0,61.708,2021,22,Abu Dhabi Grand Prix,8.0
+10,Pierre Gasly,AlphaTauri,12.0,83.489,84.043,,5.0,Finished,10.0,6.531,2021,22,Abu Dhabi Grand Prix,5.0
+18,Lance Stroll,Aston Martin,13.0,84.061,84.066,,13.0,+1 Lap,0.0,,2021,22,Abu Dhabi Grand Prix,13.0
+99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,84.118,84.251,,17.0,Gearbox,0.0,,2021,22,Abu Dhabi Grand Prix,17.0
+5,Sebastian Vettel,Aston Martin,15.0,84.225,84.305,,11.0,Finished,0.0,67.527,2021,22,Abu Dhabi Grand Prix,11.0
+6,Nicholas Latifi,Williams,16.0,84.338,,,16.0,Accident,0.0,,2021,22,Abu Dhabi Grand Prix,16.0
+63,George Russell,Williams,17.0,84.423,,,18.0,Gearbox,0.0,,2021,22,Abu Dhabi Grand Prix,18.0
+7,Kimi Räikkönen,Alfa Romeo Racing,18.0,84.779,,,19.0,Brakes,0.0,,2021,22,Abu Dhabi Grand Prix,19.0
+47,Mick Schumacher,Haas F1 Team,19.0,84.906,,,14.0,+1 Lap,0.0,,2021,22,Abu Dhabi Grand Prix,14.0
+9,Nikita Mazepin,Haas F1 Team,20.0,85.685,,,,Illness,0.0,,2021,22,Abu Dhabi Grand Prix,
