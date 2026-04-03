@@ -1,0 +1,471 @@
+Season,Round,EventName,FullName,FinishPosition,Predicted,Predicted_Rank
+2025,1,Australian Grand Prix,Lando Norris,1.0,4.23,1
+2025,1,Australian Grand Prix,George Russell,3.0,5.63,2
+2025,1,Australian Grand Prix,Oscar Piastri,9.0,6.35,3
+2025,1,Australian Grand Prix,Charles Leclerc,8.0,6.45,4
+2025,1,Australian Grand Prix,Lewis Hamilton,10.0,7.07,5
+2025,1,Australian Grand Prix,Max Verstappen,2.0,7.09,6
+2025,1,Australian Grand Prix,Yuki Tsunoda,12.0,8.68,7
+2025,1,Australian Grand Prix,Carlos Sainz,18.0,9.6,8
+2025,1,Australian Grand Prix,Andrea Kimi Antonelli,4.0,9.67,9
+2025,1,Australian Grand Prix,Pierre Gasly,11.0,9.79,10
+2025,1,Australian Grand Prix,Isack Hadjar,20.0,11.8,11
+2025,1,Australian Grand Prix,Fernando Alonso,17.0,11.84,12
+2025,1,Australian Grand Prix,Alexander Albon,5.0,12.04,13
+2025,1,Australian Grand Prix,Nico Hulkenberg,7.0,12.65,14
+2025,1,Australian Grand Prix,Lance Stroll,6.0,12.93,15
+2025,1,Australian Grand Prix,Jack Doohan,19.0,13.17,16
+2025,1,Australian Grand Prix,Liam Lawson,15.0,13.34,17
+2025,1,Australian Grand Prix,Gabriel Bortoleto,16.0,13.38,18
+2025,1,Australian Grand Prix,Esteban Ocon,13.0,13.44,19
+2025,2,Chinese Grand Prix,Lando Norris,2.0,3.85,1
+2025,2,Chinese Grand Prix,George Russell,3.0,5.07,2
+2025,2,Chinese Grand Prix,Max Verstappen,4.0,5.16,3
+2025,2,Chinese Grand Prix,Oscar Piastri,1.0,6.08,4
+2025,2,Chinese Grand Prix,Charles Leclerc,18.0,6.44,5
+2025,2,Chinese Grand Prix,Lewis Hamilton,19.0,6.46,6
+2025,2,Chinese Grand Prix,Carlos Sainz,10.0,10.84,7
+2025,2,Chinese Grand Prix,Isack Hadjar,11.0,11.32,8
+2025,2,Chinese Grand Prix,Esteban Ocon,5.0,11.34,9
+2025,2,Chinese Grand Prix,Pierre Gasly,20.0,11.8,10
+2025,2,Chinese Grand Prix,Lance Stroll,9.0,11.96,11
+2025,2,Chinese Grand Prix,Alexander Albon,7.0,12.07,12
+2025,2,Chinese Grand Prix,Fernando Alonso,17.0,12.27,13
+2025,2,Chinese Grand Prix,Nico Hulkenberg,15.0,12.4,14
+2025,2,Chinese Grand Prix,Yuki Tsunoda,16.0,12.62,15
+2025,2,Chinese Grand Prix,Liam Lawson,12.0,12.71,16
+2025,2,Chinese Grand Prix,Jack Doohan,13.0,14.36,17
+2025,2,Chinese Grand Prix,Gabriel Bortoleto,14.0,14.87,18
+2025,2,Chinese Grand Prix,Oliver Bearman,8.0,15.0,19
+2025,3,Japanese Grand Prix,Lando Norris,2.0,4.01,1
+2025,3,Japanese Grand Prix,Max Verstappen,1.0,4.06,2
+2025,3,Japanese Grand Prix,Kimi Antonelli,6.0,5.78,3
+2025,3,Japanese Grand Prix,George Russell,5.0,5.86,4
+2025,3,Japanese Grand Prix,Oscar Piastri,3.0,6.15,5
+2025,3,Japanese Grand Prix,Charles Leclerc,4.0,6.63,6
+2025,3,Japanese Grand Prix,Lewis Hamilton,7.0,7.49,7
+2025,3,Japanese Grand Prix,Carlos Sainz,14.0,10.48,8
+2025,3,Japanese Grand Prix,Isack Hadjar,8.0,10.83,9
+2025,3,Japanese Grand Prix,Oliver Bearman,10.0,11.38,10
+2025,3,Japanese Grand Prix,Fernando Alonso,11.0,11.44,11
+2025,3,Japanese Grand Prix,Alexander Albon,9.0,11.67,12
+2025,3,Japanese Grand Prix,Pierre Gasly,13.0,11.77,13
+2025,3,Japanese Grand Prix,Esteban Ocon,18.0,12.37,14
+2025,3,Japanese Grand Prix,Yuki Tsunoda,12.0,13.45,15
+2025,3,Japanese Grand Prix,Liam Lawson,17.0,13.78,16
+2025,3,Japanese Grand Prix,Lance Stroll,20.0,14.15,17
+2025,3,Japanese Grand Prix,Nico Hulkenberg,16.0,14.8,18
+2025,3,Japanese Grand Prix,Jack Doohan,15.0,15.15,19
+2025,3,Japanese Grand Prix,Gabriel Bortoleto,19.0,15.28,20
+2025,4,Bahrain Grand Prix,Oscar Piastri,1.0,5.01,1
+2025,4,Bahrain Grand Prix,Kimi Antonelli,11.0,5.31,2
+2025,4,Bahrain Grand Prix,Lando Norris,3.0,5.46,3
+2025,4,Bahrain Grand Prix,Max Verstappen,6.0,5.57,4
+2025,4,Bahrain Grand Prix,Charles Leclerc,4.0,6.63,5
+2025,4,Bahrain Grand Prix,George Russell,2.0,6.65,6
+2025,4,Bahrain Grand Prix,Lewis Hamilton,5.0,8.7,7
+2025,4,Bahrain Grand Prix,Pierre Gasly,7.0,9.64,8
+2025,4,Bahrain Grand Prix,Carlos Sainz,19.0,9.97,9
+2025,4,Bahrain Grand Prix,Fernando Alonso,15.0,11.03,10
+2025,4,Bahrain Grand Prix,Yuki Tsunoda,9.0,11.73,11
+2025,4,Bahrain Grand Prix,Isack Hadjar,13.0,11.76,12
+2025,4,Bahrain Grand Prix,Jack Doohan,14.0,12.54,13
+2025,4,Bahrain Grand Prix,Esteban Ocon,8.0,12.76,14
+2025,4,Bahrain Grand Prix,Alexander Albon,12.0,12.82,15
+2025,4,Bahrain Grand Prix,Lance Stroll,17.0,13.42,16
+2025,4,Bahrain Grand Prix,Liam Lawson,16.0,13.74,17
+2025,4,Bahrain Grand Prix,Nico Hulkenberg,20.0,14.63,18
+2025,4,Bahrain Grand Prix,Oliver Bearman,10.0,14.92,19
+2025,4,Bahrain Grand Prix,Gabriel Bortoleto,18.0,16.62,20
+2025,5,Saudi Arabian Grand Prix,Max Verstappen,2.0,2.6,1
+2025,5,Saudi Arabian Grand Prix,George Russell,5.0,4.75,2
+2025,5,Saudi Arabian Grand Prix,Oscar Piastri,1.0,5.24,3
+2025,5,Saudi Arabian Grand Prix,Charles Leclerc,3.0,5.62,4
+2025,5,Saudi Arabian Grand Prix,Lando Norris,4.0,7.0,5
+2025,5,Saudi Arabian Grand Prix,Lewis Hamilton,7.0,7.47,6
+2025,5,Saudi Arabian Grand Prix,Kimi Antonelli,6.0,7.67,7
+2025,5,Saudi Arabian Grand Prix,Carlos Sainz,8.0,9.99,8
+2025,5,Saudi Arabian Grand Prix,Pierre Gasly,20.0,10.36,9
+2025,5,Saudi Arabian Grand Prix,Yuki Tsunoda,19.0,11.23,10
+2025,5,Saudi Arabian Grand Prix,Alexander Albon,9.0,12.66,11
+2025,5,Saudi Arabian Grand Prix,Fernando Alonso,11.0,12.69,12
+2025,5,Saudi Arabian Grand Prix,Isack Hadjar,10.0,13.0,13
+2025,5,Saudi Arabian Grand Prix,Liam Lawson,12.0,13.08,14
+2025,5,Saudi Arabian Grand Prix,Lance Stroll,16.0,13.12,15
+2025,5,Saudi Arabian Grand Prix,Esteban Ocon,14.0,13.45,16
+2025,5,Saudi Arabian Grand Prix,Oliver Bearman,13.0,13.46,17
+2025,5,Saudi Arabian Grand Prix,Jack Doohan,17.0,14.34,18
+2025,5,Saudi Arabian Grand Prix,Nico Hulkenberg,15.0,14.88,19
+2025,5,Saudi Arabian Grand Prix,Gabriel Bortoleto,18.0,16.82,20
+2025,6,Miami Grand Prix,Oscar Piastri,1.0,3.8,1
+2025,6,Miami Grand Prix,Lando Norris,2.0,4.15,2
+2025,6,Miami Grand Prix,Max Verstappen,4.0,4.47,3
+2025,6,Miami Grand Prix,George Russell,3.0,4.89,4
+2025,6,Miami Grand Prix,Kimi Antonelli,6.0,5.73,5
+2025,6,Miami Grand Prix,Charles Leclerc,7.0,7.73,6
+2025,6,Miami Grand Prix,Lewis Hamilton,8.0,8.46,7
+2025,6,Miami Grand Prix,Alexander Albon,5.0,10.53,8
+2025,6,Miami Grand Prix,Carlos Sainz,9.0,10.78,9
+2025,6,Miami Grand Prix,Esteban Ocon,12.0,11.44,10
+2025,6,Miami Grand Prix,Yuki Tsunoda,10.0,12.31,11
+2025,6,Miami Grand Prix,Isack Hadjar,11.0,12.9,12
+2025,6,Miami Grand Prix,Jack Doohan,20.0,13.41,13
+2025,6,Miami Grand Prix,Liam Lawson,17.0,13.66,14
+2025,6,Miami Grand Prix,Fernando Alonso,15.0,13.76,15
+2025,6,Miami Grand Prix,Lance Stroll,16.0,14.05,16
+2025,6,Miami Grand Prix,Pierre Gasly,13.0,14.15,17
+2025,6,Miami Grand Prix,Nico Hulkenberg,14.0,14.94,18
+2025,6,Miami Grand Prix,Gabriel Bortoleto,18.0,15.21,19
+2025,6,Miami Grand Prix,Oliver Bearman,19.0,15.99,20
+2025,7,Emilia Romagna Grand Prix,Max Verstappen,1.0,3.84,1
+2025,7,Emilia Romagna Grand Prix,Oscar Piastri,3.0,3.85,2
+2025,7,Emilia Romagna Grand Prix,Lando Norris,2.0,4.36,3
+2025,7,Emilia Romagna Grand Prix,George Russell,7.0,4.42,4
+2025,7,Emilia Romagna Grand Prix,Alexander Albon,5.0,9.08,5
+2025,7,Emilia Romagna Grand Prix,Lewis Hamilton,4.0,9.18,6
+2025,7,Emilia Romagna Grand Prix,Charles Leclerc,6.0,9.41,7
+2025,7,Emilia Romagna Grand Prix,Fernando Alonso,11.0,9.84,8
+2025,7,Emilia Romagna Grand Prix,Carlos Sainz,8.0,10.07,9
+2025,7,Emilia Romagna Grand Prix,Kimi Antonelli,19.0,10.62,10
+2025,7,Emilia Romagna Grand Prix,Isack Hadjar,9.0,11.11,11
+2025,7,Emilia Romagna Grand Prix,Pierre Gasly,13.0,11.3,12
+2025,7,Emilia Romagna Grand Prix,Lance Stroll,15.0,11.45,13
+2025,7,Emilia Romagna Grand Prix,Liam Lawson,14.0,13.51,14
+2025,7,Emilia Romagna Grand Prix,Esteban Ocon,20.0,13.68,15
+2025,7,Emilia Romagna Grand Prix,Oliver Bearman,17.0,14.76,16
+2025,7,Emilia Romagna Grand Prix,Franco Colapinto,16.0,14.94,17
+2025,7,Emilia Romagna Grand Prix,Gabriel Bortoleto,18.0,15.72,18
+2025,7,Emilia Romagna Grand Prix,Nico Hulkenberg,12.0,15.82,19
+2025,8,Monaco Grand Prix,Lando Norris,1.0,4.13,1
+2025,8,Monaco Grand Prix,Max Verstappen,4.0,4.58,2
+2025,8,Monaco Grand Prix,Lewis Hamilton,5.0,5.2,3
+2025,8,Monaco Grand Prix,Oscar Piastri,3.0,5.94,4
+2025,8,Monaco Grand Prix,Charles Leclerc,2.0,5.97,5
+2025,8,Monaco Grand Prix,Isack Hadjar,6.0,8.45,6
+2025,8,Monaco Grand Prix,George Russell,11.0,8.99,7
+2025,8,Monaco Grand Prix,Fernando Alonso,19.0,9.74,8
+2025,8,Monaco Grand Prix,Kimi Antonelli,18.0,9.74,8
+2025,8,Monaco Grand Prix,Yuki Tsunoda,17.0,10.93,10
+2025,8,Monaco Grand Prix,Alexander Albon,9.0,11.03,11
+2025,8,Monaco Grand Prix,Liam Lawson,8.0,11.24,12
+2025,8,Monaco Grand Prix,Carlos Sainz,10.0,11.41,13
+2025,8,Monaco Grand Prix,Esteban Ocon,7.0,13.23,14
+2025,8,Monaco Grand Prix,Nico Hulkenberg,16.0,14.0,15
+2025,8,Monaco Grand Prix,Pierre Gasly,20.0,14.05,16
+2025,8,Monaco Grand Prix,Gabriel Bortoleto,14.0,15.04,17
+2025,8,Monaco Grand Prix,Lance Stroll,15.0,15.15,18
+2025,8,Monaco Grand Prix,Oliver Bearman,12.0,15.15,18
+2025,8,Monaco Grand Prix,Franco Colapinto,13.0,15.43,20
+2025,9,Spanish Grand Prix,Max Verstappen,10.0,4.19,1
+2025,9,Spanish Grand Prix,Lando Norris,2.0,4.85,2
+2025,9,Spanish Grand Prix,Lewis Hamilton,6.0,5.02,3
+2025,9,Spanish Grand Prix,Oscar Piastri,1.0,5.36,4
+2025,9,Spanish Grand Prix,George Russell,4.0,5.43,5
+2025,9,Spanish Grand Prix,Charles Leclerc,3.0,6.69,6
+2025,9,Spanish Grand Prix,Kimi Antonelli,18.0,6.85,7
+2025,9,Spanish Grand Prix,Isack Hadjar,7.0,9.77,8
+2025,9,Spanish Grand Prix,Alexander Albon,19.0,10.66,9
+2025,9,Spanish Grand Prix,Pierre Gasly,8.0,11.74,10
+2025,9,Spanish Grand Prix,Liam Lawson,11.0,12.5,11
+2025,9,Spanish Grand Prix,Fernando Alonso,9.0,12.54,12
+2025,9,Spanish Grand Prix,Carlos Sainz,14.0,13.45,13
+2025,9,Spanish Grand Prix,Esteban Ocon,16.0,13.65,14
+2025,9,Spanish Grand Prix,Yuki Tsunoda,13.0,14.65,15
+2025,9,Spanish Grand Prix,Nico Hulkenberg,5.0,14.66,16
+2025,9,Spanish Grand Prix,Oliver Bearman,17.0,14.76,17
+2025,9,Spanish Grand Prix,Franco Colapinto,15.0,14.94,18
+2025,9,Spanish Grand Prix,Gabriel Bortoleto,12.0,14.97,19
+2025,10,Canadian Grand Prix,Max Verstappen,2.0,4.81,1
+2025,10,Canadian Grand Prix,Oscar Piastri,4.0,5.3,2
+2025,10,Canadian Grand Prix,George Russell,1.0,5.5,3
+2025,10,Canadian Grand Prix,Charles Leclerc,5.0,6.49,4
+2025,10,Canadian Grand Prix,Lewis Hamilton,6.0,6.52,5
+2025,10,Canadian Grand Prix,Kimi Antonelli,3.0,6.97,6
+2025,10,Canadian Grand Prix,Lando Norris,18.0,7.74,7
+2025,10,Canadian Grand Prix,Fernando Alonso,7.0,8.41,8
+2025,10,Canadian Grand Prix,Isack Hadjar,16.0,9.45,9
+2025,10,Canadian Grand Prix,Yuki Tsunoda,12.0,11.81,10
+2025,10,Canadian Grand Prix,Alexander Albon,20.0,12.12,11
+2025,10,Canadian Grand Prix,Nico Hulkenberg,8.0,12.47,12
+2025,10,Canadian Grand Prix,Franco Colapinto,13.0,12.64,13
+2025,10,Canadian Grand Prix,Pierre Gasly,15.0,12.89,14
+2025,10,Canadian Grand Prix,Carlos Sainz,10.0,12.97,15
+2025,10,Canadian Grand Prix,Esteban Ocon,9.0,13.52,16
+2025,10,Canadian Grand Prix,Gabriel Bortoleto,14.0,13.75,17
+2025,10,Canadian Grand Prix,Oliver Bearman,11.0,14.18,18
+2025,10,Canadian Grand Prix,Liam Lawson,19.0,14.32,19
+2025,10,Canadian Grand Prix,Lance Stroll,17.0,14.42,20
+2025,11,Austrian Grand Prix,Charles Leclerc,3.0,3.65,1
+2025,11,Austrian Grand Prix,Lando Norris,1.0,4.7,2
+2025,11,Austrian Grand Prix,Lewis Hamilton,4.0,5.54,3
+2025,11,Austrian Grand Prix,George Russell,5.0,5.83,4
+2025,11,Austrian Grand Prix,Oscar Piastri,2.0,6.32,5
+2025,11,Austrian Grand Prix,Max Verstappen,18.0,6.49,6
+2025,11,Austrian Grand Prix,Kimi Antonelli,19.0,8.25,7
+2025,11,Austrian Grand Prix,Liam Lawson,6.0,9.16,8
+2025,11,Austrian Grand Prix,Fernando Alonso,7.0,11.08,9
+2025,11,Austrian Grand Prix,Pierre Gasly,13.0,11.61,10
+2025,11,Austrian Grand Prix,Carlos Sainz,20.0,12.16,11
+2025,11,Austrian Grand Prix,Gabriel Bortoleto,8.0,12.57,12
+2025,11,Austrian Grand Prix,Isack Hadjar,12.0,12.83,13
+2025,11,Austrian Grand Prix,Alexander Albon,17.0,12.88,14
+2025,11,Austrian Grand Prix,Franco Colapinto,15.0,13.09,15
+2025,11,Austrian Grand Prix,Oliver Bearman,11.0,13.4,16
+2025,11,Austrian Grand Prix,Esteban Ocon,10.0,13.47,17
+2025,11,Austrian Grand Prix,Lance Stroll,14.0,13.91,18
+2025,11,Austrian Grand Prix,Yuki Tsunoda,16.0,14.11,19
+2025,11,Austrian Grand Prix,Nico Hulkenberg,9.0,14.41,20
+2025,12,British Grand Prix,Max Verstappen,5.0,4.35,1
+2025,12,British Grand Prix,Oscar Piastri,2.0,4.49,2
+2025,12,British Grand Prix,George Russell,10.0,4.81,3
+2025,12,British Grand Prix,Lewis Hamilton,4.0,4.89,4
+2025,12,British Grand Prix,Lando Norris,1.0,4.91,5
+2025,12,British Grand Prix,Charles Leclerc,14.0,4.98,6
+2025,12,British Grand Prix,Kimi Antonelli,16.0,8.21,7
+2025,12,British Grand Prix,Fernando Alonso,9.0,9.4,8
+2025,12,British Grand Prix,Oliver Bearman,11.0,9.99,9
+2025,12,British Grand Prix,Pierre Gasly,6.0,11.3,10
+2025,12,British Grand Prix,Carlos Sainz,12.0,11.57,11
+2025,12,British Grand Prix,Yuki Tsunoda,15.0,12.32,12
+2025,12,British Grand Prix,Isack Hadjar,17.0,12.7,13
+2025,12,British Grand Prix,Liam Lawson,19.0,13.35,14
+2025,12,British Grand Prix,Esteban Ocon,13.0,13.74,15
+2025,12,British Grand Prix,Nico Hulkenberg,3.0,14.18,16
+2025,12,British Grand Prix,Alexander Albon,8.0,14.32,17
+2025,12,British Grand Prix,Lance Stroll,7.0,14.57,18
+2025,12,British Grand Prix,Gabriel Bortoleto,18.0,14.7,19
+2025,12,British Grand Prix,Franco Colapinto,20.0,14.75,20
+2025,13,Belgian Grand Prix,Lando Norris,2.0,3.84,1
+2025,13,Belgian Grand Prix,Charles Leclerc,3.0,5.52,2
+2025,13,Belgian Grand Prix,Oscar Piastri,1.0,5.57,3
+2025,13,Belgian Grand Prix,Max Verstappen,4.0,5.88,4
+2025,13,Belgian Grand Prix,George Russell,5.0,7.89,5
+2025,13,Belgian Grand Prix,Lewis Hamilton,7.0,9.22,6
+2025,13,Belgian Grand Prix,Alexander Albon,6.0,10.92,7
+2025,13,Belgian Grand Prix,Kimi Antonelli,16.0,11.12,8
+2025,13,Belgian Grand Prix,Nico Hulkenberg,12.0,11.13,9
+2025,13,Belgian Grand Prix,Yuki Tsunoda,13.0,11.2,10
+2025,13,Belgian Grand Prix,Isack Hadjar,20.0,11.22,11
+2025,13,Belgian Grand Prix,Liam Lawson,8.0,11.75,12
+2025,13,Belgian Grand Prix,Pierre Gasly,10.0,11.92,13
+2025,13,Belgian Grand Prix,Oliver Bearman,11.0,12.19,14
+2025,13,Belgian Grand Prix,Esteban Ocon,15.0,12.36,15
+2025,13,Belgian Grand Prix,Gabriel Bortoleto,9.0,12.84,16
+2025,13,Belgian Grand Prix,Lance Stroll,14.0,13.06,17
+2025,13,Belgian Grand Prix,Fernando Alonso,17.0,13.29,18
+2025,13,Belgian Grand Prix,Carlos Sainz,18.0,13.73,19
+2025,13,Belgian Grand Prix,Franco Colapinto,19.0,14.07,20
+2025,14,Hungarian Grand Prix,Lando Norris,1.0,4.39,1
+2025,14,Hungarian Grand Prix,Oscar Piastri,2.0,5.17,2
+2025,14,Hungarian Grand Prix,Charles Leclerc,4.0,5.22,3
+2025,14,Hungarian Grand Prix,George Russell,3.0,5.74,4
+2025,14,Hungarian Grand Prix,Max Verstappen,9.0,7.23,5
+2025,14,Hungarian Grand Prix,Lewis Hamilton,12.0,7.35,6
+2025,14,Hungarian Grand Prix,Fernando Alonso,5.0,8.49,7
+2025,14,Hungarian Grand Prix,Lance Stroll,7.0,9.28,8
+2025,14,Hungarian Grand Prix,Kimi Antonelli,10.0,10.16,9
+2025,14,Hungarian Grand Prix,Gabriel Bortoleto,6.0,10.59,10
+2025,14,Hungarian Grand Prix,Oliver Bearman,20.0,11.85,11
+2025,14,Hungarian Grand Prix,Alexander Albon,15.0,11.91,12
+2025,14,Hungarian Grand Prix,Liam Lawson,8.0,12.5,13
+2025,14,Hungarian Grand Prix,Yuki Tsunoda,17.0,12.98,14
+2025,14,Hungarian Grand Prix,Pierre Gasly,19.0,13.16,15
+2025,14,Hungarian Grand Prix,Nico Hulkenberg,13.0,13.4,16
+2025,14,Hungarian Grand Prix,Isack Hadjar,11.0,13.56,17
+2025,14,Hungarian Grand Prix,Carlos Sainz,14.0,13.59,18
+2025,14,Hungarian Grand Prix,Esteban Ocon,16.0,15.06,19
+2025,14,Hungarian Grand Prix,Franco Colapinto,18.0,15.06,19
+2025,15,Dutch Grand Prix,Lando Norris,18.0,4.22,1
+2025,15,Dutch Grand Prix,Oscar Piastri,1.0,5.46,2
+2025,15,Dutch Grand Prix,Max Verstappen,2.0,5.66,3
+2025,15,Dutch Grand Prix,George Russell,4.0,5.67,4
+2025,15,Dutch Grand Prix,Charles Leclerc,19.0,6.14,5
+2025,15,Dutch Grand Prix,Lewis Hamilton,20.0,6.58,6
+2025,15,Dutch Grand Prix,Kimi Antonelli,16.0,8.96,7
+2025,15,Dutch Grand Prix,Liam Lawson,12.0,9.42,8
+2025,15,Dutch Grand Prix,Fernando Alonso,8.0,9.73,9
+2025,15,Dutch Grand Prix,Isack Hadjar,3.0,10.21,10
+2025,15,Dutch Grand Prix,Carlos Sainz,13.0,12.12,11
+2025,15,Dutch Grand Prix,Yuki Tsunoda,9.0,12.26,12
+2025,15,Dutch Grand Prix,Pierre Gasly,17.0,12.56,13
+2025,15,Dutch Grand Prix,Gabriel Bortoleto,15.0,13.18,14
+2025,15,Dutch Grand Prix,Alexander Albon,5.0,13.23,15
+2025,15,Dutch Grand Prix,Nico Hulkenberg,14.0,14.11,16
+2025,15,Dutch Grand Prix,Oliver Bearman,6.0,14.85,17
+2025,15,Dutch Grand Prix,Esteban Ocon,10.0,15.35,18
+2025,15,Dutch Grand Prix,Franco Colapinto,11.0,15.69,19
+2025,16,Italian Grand Prix,Lando Norris,2.0,4.31,1
+2025,16,Italian Grand Prix,Oscar Piastri,3.0,5.09,2
+2025,16,Italian Grand Prix,George Russell,5.0,5.38,3
+2025,16,Italian Grand Prix,Charles Leclerc,4.0,6.11,4
+2025,16,Italian Grand Prix,Lewis Hamilton,6.0,6.98,5
+2025,16,Italian Grand Prix,Max Verstappen,1.0,7.62,6
+2025,16,Italian Grand Prix,Kimi Antonelli,9.0,8.72,7
+2025,16,Italian Grand Prix,Fernando Alonso,19.0,9.97,8
+2025,16,Italian Grand Prix,Alexander Albon,7.0,10.71,9
+2025,16,Italian Grand Prix,Gabriel Bortoleto,8.0,11.05,10
+2025,16,Italian Grand Prix,Oliver Bearman,12.0,11.8,11
+2025,16,Italian Grand Prix,Isack Hadjar,10.0,12.4,12
+2025,16,Italian Grand Prix,Yuki Tsunoda,13.0,12.58,13
+2025,16,Italian Grand Prix,Nico Hulkenberg,20.0,13.14,14
+2025,16,Italian Grand Prix,Lance Stroll,18.0,13.22,15
+2025,16,Italian Grand Prix,Carlos Sainz,11.0,13.54,16
+2025,16,Italian Grand Prix,Liam Lawson,14.0,13.8,17
+2025,16,Italian Grand Prix,Esteban Ocon,15.0,14.19,18
+2025,16,Italian Grand Prix,Pierre Gasly,16.0,14.96,19
+2025,16,Italian Grand Prix,Franco Colapinto,17.0,15.03,20
+2025,17,Azerbaijan Grand Prix,Max Verstappen,1.0,3.43,1
+2025,17,Azerbaijan Grand Prix,George Russell,2.0,4.63,2
+2025,17,Azerbaijan Grand Prix,Oscar Piastri,20.0,6.02,3
+2025,17,Azerbaijan Grand Prix,Kimi Antonelli,4.0,6.48,4
+2025,17,Azerbaijan Grand Prix,Lando Norris,7.0,7.0,5
+2025,17,Azerbaijan Grand Prix,Liam Lawson,5.0,8.67,6
+2025,17,Azerbaijan Grand Prix,Lewis Hamilton,8.0,9.11,7
+2025,17,Azerbaijan Grand Prix,Carlos Sainz,3.0,9.6,8
+2025,17,Azerbaijan Grand Prix,Fernando Alonso,15.0,10.15,9
+2025,17,Azerbaijan Grand Prix,Isack Hadjar,10.0,10.15,9
+2025,17,Azerbaijan Grand Prix,Yuki Tsunoda,6.0,10.26,11
+2025,17,Azerbaijan Grand Prix,Charles Leclerc,9.0,11.06,12
+2025,17,Azerbaijan Grand Prix,Gabriel Bortoleto,11.0,12.33,13
+2025,17,Azerbaijan Grand Prix,Nico Hulkenberg,16.0,13.0,14
+2025,17,Azerbaijan Grand Prix,Oliver Bearman,12.0,13.3,15
+2025,17,Azerbaijan Grand Prix,Alexander Albon,13.0,13.65,16
+2025,17,Azerbaijan Grand Prix,Pierre Gasly,18.0,13.99,17
+2025,17,Azerbaijan Grand Prix,Lance Stroll,17.0,14.13,18
+2025,17,Azerbaijan Grand Prix,Franco Colapinto,19.0,14.84,19
+2025,18,Singapore Grand Prix,Max Verstappen,2.0,2.76,1
+2025,18,Singapore Grand Prix,Lando Norris,3.0,5.23,2
+2025,18,Singapore Grand Prix,George Russell,1.0,5.57,3
+2025,18,Singapore Grand Prix,Oscar Piastri,4.0,5.96,4
+2025,18,Singapore Grand Prix,Lewis Hamilton,8.0,7.45,5
+2025,18,Singapore Grand Prix,Kimi Antonelli,5.0,7.81,6
+2025,18,Singapore Grand Prix,Charles Leclerc,6.0,8.31,7
+2025,18,Singapore Grand Prix,Fernando Alonso,7.0,10.88,8
+2025,18,Singapore Grand Prix,Liam Lawson,15.0,11.05,9
+2025,18,Singapore Grand Prix,Oliver Bearman,9.0,11.14,10
+2025,18,Singapore Grand Prix,Isack Hadjar,11.0,11.18,11
+2025,18,Singapore Grand Prix,Yuki Tsunoda,12.0,12.06,12
+2025,18,Singapore Grand Prix,Gabriel Bortoleto,17.0,13.43,13
+2025,18,Singapore Grand Prix,Lance Stroll,13.0,13.88,14
+2025,18,Singapore Grand Prix,Nico Hulkenberg,20.0,14.03,15
+2025,18,Singapore Grand Prix,Pierre Gasly,19.0,14.74,16
+2025,18,Singapore Grand Prix,Franco Colapinto,16.0,14.88,17
+2025,18,Singapore Grand Prix,Esteban Ocon,18.0,15.75,18
+2025,19,United States Grand Prix,Max Verstappen,1.0,2.08,1
+2025,19,United States Grand Prix,George Russell,6.0,5.18,2
+2025,19,United States Grand Prix,Lando Norris,2.0,5.32,3
+2025,19,United States Grand Prix,Kimi Antonelli,13.0,5.98,4
+2025,19,United States Grand Prix,Charles Leclerc,3.0,6.08,5
+2025,19,United States Grand Prix,Oscar Piastri,5.0,6.62,6
+2025,19,United States Grand Prix,Lewis Hamilton,4.0,6.95,7
+2025,19,United States Grand Prix,Carlos Sainz,20.0,10.1,8
+2025,19,United States Grand Prix,Fernando Alonso,10.0,10.98,9
+2025,19,United States Grand Prix,Oliver Bearman,9.0,11.67,10
+2025,19,United States Grand Prix,Yuki Tsunoda,7.0,12.36,11
+2025,19,United States Grand Prix,Liam Lawson,11.0,13.09,12
+2025,19,United States Grand Prix,Pierre Gasly,19.0,13.7,13
+2025,19,United States Grand Prix,Lance Stroll,12.0,13.85,14
+2025,19,United States Grand Prix,Franco Colapinto,17.0,14.01,15
+2025,19,United States Grand Prix,Gabriel Bortoleto,18.0,14.05,16
+2025,19,United States Grand Prix,Alexander Albon,14.0,14.49,17
+2025,19,United States Grand Prix,Esteban Ocon,15.0,14.54,18
+2025,19,United States Grand Prix,Nico Hulkenberg,8.0,15.18,19
+2025,20,Mexico City Grand Prix,Max Verstappen,3.0,4.47,1
+2025,20,Mexico City Grand Prix,Charles Leclerc,2.0,4.54,2
+2025,20,Mexico City Grand Prix,Lewis Hamilton,8.0,4.81,3
+2025,20,Mexico City Grand Prix,Lando Norris,1.0,4.83,4
+2025,20,Mexico City Grand Prix,Kimi Antonelli,6.0,6.31,5
+2025,20,Mexico City Grand Prix,George Russell,7.0,6.61,6
+2025,20,Mexico City Grand Prix,Oscar Piastri,5.0,9.38,7
+2025,20,Mexico City Grand Prix,Yuki Tsunoda,11.0,9.88,8
+2025,20,Mexico City Grand Prix,Carlos Sainz,17.0,10.12,9
+2025,20,Mexico City Grand Prix,Isack Hadjar,13.0,11.09,10
+2025,20,Mexico City Grand Prix,Oliver Bearman,4.0,11.56,11
+2025,20,Mexico City Grand Prix,Fernando Alonso,18.0,11.97,12
+2025,20,Mexico City Grand Prix,Esteban Ocon,9.0,12.63,13
+2025,20,Mexico City Grand Prix,Lance Stroll,14.0,13.18,14
+2025,20,Mexico City Grand Prix,Nico Hulkenberg,19.0,13.55,15
+2025,20,Mexico City Grand Prix,Liam Lawson,20.0,13.7,16
+2025,20,Mexico City Grand Prix,Alexander Albon,12.0,14.54,17
+2025,20,Mexico City Grand Prix,Pierre Gasly,15.0,14.86,18
+2025,20,Mexico City Grand Prix,Gabriel Bortoleto,10.0,14.87,19
+2025,20,Mexico City Grand Prix,Franco Colapinto,16.0,15.06,20
+2025,21,São Paulo Grand Prix,Lando Norris,1.0,3.85,1
+2025,21,São Paulo Grand Prix,Charles Leclerc,19.0,5.14,2
+2025,21,São Paulo Grand Prix,Kimi Antonelli,2.0,5.8,3
+2025,21,São Paulo Grand Prix,George Russell,4.0,6.41,4
+2025,21,São Paulo Grand Prix,Oscar Piastri,5.0,6.47,5
+2025,21,São Paulo Grand Prix,Max Verstappen,3.0,8.15,6
+2025,21,São Paulo Grand Prix,Lewis Hamilton,18.0,8.41,7
+2025,21,São Paulo Grand Prix,Oliver Bearman,6.0,9.54,8
+2025,21,São Paulo Grand Prix,Isack Hadjar,8.0,9.91,9
+2025,21,São Paulo Grand Prix,Liam Lawson,7.0,10.11,10
+2025,21,São Paulo Grand Prix,Fernando Alonso,14.0,10.18,11
+2025,21,São Paulo Grand Prix,Yuki Tsunoda,17.0,11.51,12
+2025,21,São Paulo Grand Prix,Pierre Gasly,10.0,12.32,13
+2025,21,São Paulo Grand Prix,Alexander Albon,11.0,12.83,14
+2025,21,São Paulo Grand Prix,Lance Stroll,16.0,13.27,15
+2025,21,São Paulo Grand Prix,Nico Hulkenberg,9.0,13.32,16
+2025,21,São Paulo Grand Prix,Carlos Sainz,13.0,13.46,17
+2025,21,São Paulo Grand Prix,Franco Colapinto,15.0,14.26,18
+2025,21,São Paulo Grand Prix,Esteban Ocon,12.0,14.52,19
+2025,22,Las Vegas Grand Prix,Lando Norris,19.0,3.28,1
+2025,22,Las Vegas Grand Prix,Max Verstappen,1.0,3.82,2
+2025,22,Las Vegas Grand Prix,George Russell,2.0,5.24,3
+2025,22,Las Vegas Grand Prix,Oscar Piastri,20.0,6.76,4
+2025,22,Las Vegas Grand Prix,Liam Lawson,14.0,9.1,5
+2025,22,Las Vegas Grand Prix,Charles Leclerc,4.0,9.64,6
+2025,22,Las Vegas Grand Prix,Carlos Sainz,5.0,9.88,7
+2025,22,Las Vegas Grand Prix,Kimi Antonelli,3.0,10.33,8
+2025,22,Las Vegas Grand Prix,Isack Hadjar,6.0,10.86,9
+2025,22,Las Vegas Grand Prix,Fernando Alonso,11.0,11.05,10
+2025,22,Las Vegas Grand Prix,Oliver Bearman,10.0,11.17,11
+2025,22,Las Vegas Grand Prix,Lewis Hamilton,8.0,11.34,12
+2025,22,Las Vegas Grand Prix,Pierre Gasly,13.0,11.9,13
+2025,22,Las Vegas Grand Prix,Esteban Ocon,9.0,12.6,14
+2025,22,Las Vegas Grand Prix,Lance Stroll,18.0,13.14,15
+2025,22,Las Vegas Grand Prix,Alexander Albon,16.0,13.44,16
+2025,22,Las Vegas Grand Prix,Nico Hulkenberg,7.0,13.5,17
+2025,22,Las Vegas Grand Prix,Yuki Tsunoda,12.0,14.49,18
+2025,22,Las Vegas Grand Prix,Franco Colapinto,15.0,14.9,19
+2025,22,Las Vegas Grand Prix,Gabriel Bortoleto,17.0,16.08,20
+2025,23,Qatar Grand Prix,Lando Norris,4.0,4.54,1
+2025,23,Qatar Grand Prix,Max Verstappen,1.0,5.33,2
+2025,23,Qatar Grand Prix,Oscar Piastri,2.0,6.0,3
+2025,23,Qatar Grand Prix,George Russell,6.0,6.77,4
+2025,23,Qatar Grand Prix,Kimi Antonelli,5.0,6.93,5
+2025,23,Qatar Grand Prix,Isack Hadjar,18.0,8.68,6
+2025,23,Qatar Grand Prix,Carlos Sainz,3.0,9.49,7
+2025,23,Qatar Grand Prix,Fernando Alonso,7.0,9.75,8
+2025,23,Qatar Grand Prix,Charles Leclerc,8.0,10.22,9
+2025,23,Qatar Grand Prix,Lewis Hamilton,12.0,11.08,10
+2025,23,Qatar Grand Prix,Oliver Bearman,19.0,11.61,11
+2025,23,Qatar Grand Prix,Nico Hulkenberg,20.0,11.64,12
+2025,23,Qatar Grand Prix,Pierre Gasly,16.0,11.68,13
+2025,23,Qatar Grand Prix,Liam Lawson,9.0,12.24,14
+2025,23,Qatar Grand Prix,Yuki Tsunoda,10.0,13.04,15
+2025,23,Qatar Grand Prix,Gabriel Bortoleto,13.0,13.74,16
+2025,23,Qatar Grand Prix,Lance Stroll,17.0,14.41,17
+2025,23,Qatar Grand Prix,Esteban Ocon,15.0,14.42,18
+2025,23,Qatar Grand Prix,Alexander Albon,11.0,14.66,19
+2025,23,Qatar Grand Prix,Franco Colapinto,14.0,14.89,20
+2025,24,Abu Dhabi Grand Prix,Max Verstappen,1.0,3.66,1
+2025,24,Abu Dhabi Grand Prix,Lando Norris,3.0,4.86,2
+2025,24,Abu Dhabi Grand Prix,George Russell,5.0,5.48,3
+2025,24,Abu Dhabi Grand Prix,Charles Leclerc,4.0,6.53,4
+2025,24,Abu Dhabi Grand Prix,Oscar Piastri,2.0,6.84,5
+2025,24,Abu Dhabi Grand Prix,Kimi Antonelli,15.0,7.2,6
+2025,24,Abu Dhabi Grand Prix,Fernando Alonso,6.0,9.08,7
+2025,24,Abu Dhabi Grand Prix,Lewis Hamilton,8.0,9.75,8
+2025,24,Abu Dhabi Grand Prix,Esteban Ocon,7.0,10.24,9
+2025,24,Abu Dhabi Grand Prix,Isack Hadjar,17.0,10.41,10
+2025,24,Abu Dhabi Grand Prix,Oliver Bearman,12.0,10.87,11
+2025,24,Abu Dhabi Grand Prix,Yuki Tsunoda,14.0,11.65,12
+2025,24,Abu Dhabi Grand Prix,Gabriel Bortoleto,11.0,12.12,13
+2025,24,Abu Dhabi Grand Prix,Carlos Sainz,13.0,12.16,14
+2025,24,Abu Dhabi Grand Prix,Liam Lawson,18.0,12.72,15
+2025,24,Abu Dhabi Grand Prix,Lance Stroll,10.0,12.94,16
+2025,24,Abu Dhabi Grand Prix,Nico Hulkenberg,9.0,13.21,17
+2025,24,Abu Dhabi Grand Prix,Pierre Gasly,19.0,14.14,18
+2025,24,Abu Dhabi Grand Prix,Alexander Albon,16.0,14.27,19
+2025,24,Abu Dhabi Grand Prix,Franco Colapinto,20.0,14.7,20
