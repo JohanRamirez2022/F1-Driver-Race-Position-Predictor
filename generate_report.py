@@ -39,7 +39,7 @@ df['driver_track_history_avg'] = (
 )
 df['driver_track_history_avg'] = df['driver_track_history_avg'].fillna(df['driver_rolling_avg_5'])
 
-df = df.drop(columns=['DriverNumber', 'FinishPosition'], errors='ignore')
+df = df.drop(columns=['DriverNumber'], errors='ignore')
 df = df.rename(columns={'RacePosition': 'FinishPosition'})
 df = df.sort_values(['FullName', 'Season', 'Round'])
 df.loc[df['FinishPosition'] == 1, 'TimeDelta'] = 0

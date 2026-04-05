@@ -1,341 +1,341 @@
-DriverNumber,FullName,TeamName,GridPosition,Q1_seconds,Q2_seconds,Q3_seconds,RacePosition,Status,Points,TimeDelta,Season,Round,EventName,FinishPosition
-77,Valtteri Bottas,Mercedes,1.0,64.111,63.015,62.939,1.0,Finished,25.0,5455.739,2020,1,Austrian Grand Prix,1.0
-44,Lewis Hamilton,Mercedes,2.0,64.198,63.096,62.951,4.0,Finished,12.0,5.689,2020,1,Austrian Grand Prix,4.0
-33,Max Verstappen,Red Bull Racing,3.0,64.024,64.0,63.477,20.0,Electronics,0.0,,2020,1,Austrian Grand Prix,20.0
-4,Lando Norris,McLaren,4.0,64.606,63.819,63.626,3.0,Finished,16.0,5.491,2020,1,Austrian Grand Prix,3.0
-23,Alexander Albon,Red Bull Racing,5.0,64.661,63.746,63.868,13.0,Electronics,0.0,,2020,1,Austrian Grand Prix,13.0
-11,Sergio Perez,Racing Point,6.0,64.543,63.86,63.868,6.0,Finished,8.0,15.092,2020,1,Austrian Grand Prix,6.0
-16,Charles Leclerc,Ferrari,7.0,64.5,64.041,63.923,2.0,Finished,18.0,2.7,2020,1,Austrian Grand Prix,2.0
-55,Carlos Sainz,McLaren,8.0,64.537,63.971,63.971,5.0,Finished,10.0,8.903,2020,1,Austrian Grand Prix,5.0
-18,Lance Stroll,Racing Point,9.0,64.309,63.955,64.029,18.0,Engine,0.0,,2020,1,Austrian Grand Prix,18.0
-3,Daniel Ricciardo,Renault,10.0,64.556,64.023,64.239,19.0,Overheating,0.0,,2020,1,Austrian Grand Prix,19.0
-5,Sebastian Vettel,Ferrari,11.0,64.554,64.206,,10.0,Finished,1.0,24.545,2020,1,Austrian Grand Prix,10.0
-10,Pierre Gasly,AlphaTauri,12.0,64.603,64.305,,7.0,Finished,6.0,16.682,2020,1,Austrian Grand Prix,7.0
-26,Daniil Kvyat,AlphaTauri,13.0,65.031,64.431,,12.0,Suspension,0.0,,2020,1,Austrian Grand Prix,12.0
-31,Esteban Ocon,Renault,14.0,64.933,64.643,,8.0,Finished,4.0,17.456,2020,1,Austrian Grand Prix,8.0
-8,Romain Grosjean,Haas F1 Team,15.0,65.094,64.691,,16.0,Brakes,0.0,,2020,1,Austrian Grand Prix,16.0
-20,Kevin Magnussen,Haas F1 Team,16.0,65.164,,,17.0,Brakes,0.0,,2020,1,Austrian Grand Prix,17.0
-63,George Russell,Williams,17.0,65.167,,,15.0,Fuel pressure,0.0,,2020,1,Austrian Grand Prix,15.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,65.175,,,9.0,Finished,2.0,21.146,2020,1,Austrian Grand Prix,9.0
-7,Kimi Räikkönen,Alfa Romeo Racing,19.0,65.224,,,14.0,Wheel,0.0,,2020,1,Austrian Grand Prix,14.0
-6,Nicholas Latifi,Williams,20.0,65.757,,,11.0,Finished,0.0,31.65,2020,1,Austrian Grand Prix,11.0
-44,Lewis Hamilton,Mercedes,1.0,78.188,77.825,79.273,1.0,Finished,25.0,4970.683,2020,2,Styrian Grand Prix,1.0
-33,Max Verstappen,Red Bull Racing,2.0,78.297,77.938,80.489,3.0,Finished,15.0,33.698,2020,2,Styrian Grand Prix,3.0
-55,Carlos Sainz,McLaren,3.0,78.59,78.836,80.671,9.0,+1 Lap,3.0,,2020,2,Styrian Grand Prix,9.0
-77,Valtteri Bottas,Mercedes,4.0,78.791,78.657,80.701,2.0,Finished,18.0,13.719,2020,2,Styrian Grand Prix,2.0
-31,Esteban Ocon,Renault,5.0,79.687,78.764,80.922,18.0,Overheating,0.0,,2020,2,Styrian Grand Prix,18.0
-4,Lando Norris,McLaren,6.0,78.504,78.448,80.925,5.0,Finished,10.0,61.47,2020,2,Styrian Grand Prix,5.0
-23,Alexander Albon,Red Bull Racing,7.0,80.882,79.014,81.011,4.0,Finished,12.0,44.4,2020,2,Styrian Grand Prix,4.0
-10,Pierre Gasly,AlphaTauri,8.0,80.192,78.744,81.028,15.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix,15.0
-3,Daniel Ricciardo,Renault,9.0,79.662,79.229,81.192,8.0,Finished,4.0,62.591,2020,2,Styrian Grand Prix,8.0
-5,Sebastian Vettel,Ferrari,10.0,80.243,79.545,81.651,20.0,Collision damage,0.0,,2020,2,Styrian Grand Prix,20.0
-16,Charles Leclerc,Ferrari,11.0,80.871,79.628,,19.0,Collision damage,0.0,,2020,2,Styrian Grand Prix,19.0
-63,George Russell,Williams,12.0,80.382,79.636,,16.0,+2 Laps,0.0,,2020,2,Styrian Grand Prix,16.0
-18,Lance Stroll,Racing Point,13.0,79.697,79.645,,7.0,Finished,6.0,62.453,2020,2,Styrian Grand Prix,7.0
-26,Daniil Kvyat,AlphaTauri,14.0,79.824,79.717,,10.0,+1 Lap,1.0,,2020,2,Styrian Grand Prix,10.0
-20,Kevin Magnussen,Haas F1 Team,15.0,81.14,80.211,,12.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix,12.0
-7,Kimi Räikkönen,Alfa Romeo Racing,16.0,81.14,,,11.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix,11.0
-11,Sergio Perez,Racing Point,17.0,81.607,,,6.0,Finished,8.0,62.387,2020,2,Styrian Grand Prix,6.0
-6,Nicholas Latifi,Williams,18.0,81.759,,,17.0,+2 Laps,0.0,,2020,2,Styrian Grand Prix,17.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,81.831,,,14.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix,14.0
-8,Romain Grosjean,Haas F1 Team,20.0,,,,13.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix,13.0
-44,Lewis Hamilton,Mercedes,1.0,74.907,74.261,73.447,1.0,Finished,26.0,5772.473,2020,3,Hungarian Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,75.474,74.53,73.554,3.0,Finished,15.0,9.452,2020,3,Hungarian Grand Prix,3.0
-18,Lance Stroll,Racing Point,3.0,74.895,75.176,74.377,4.0,Finished,12.0,57.579,2020,3,Hungarian Grand Prix,4.0
-11,Sergio Perez,Racing Point,4.0,74.681,75.394,74.545,7.0,+1 Lap,6.0,,2020,3,Hungarian Grand Prix,7.0
-5,Sebastian Vettel,Ferrari,5.0,75.455,75.131,74.774,6.0,+1 Lap,8.0,,2020,3,Hungarian Grand Prix,6.0
-16,Charles Leclerc,Ferrari,6.0,75.793,75.006,74.817,11.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,11.0
-33,Max Verstappen,Red Bull Racing,7.0,75.495,74.976,74.849,2.0,Finished,18.0,8.702,2020,3,Hungarian Grand Prix,2.0
-4,Lando Norris,McLaren,8.0,75.444,75.085,74.966,13.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,13.0
-55,Carlos Sainz,McLaren,9.0,75.281,75.267,75.027,9.0,+1 Lap,2.0,,2020,3,Hungarian Grand Prix,9.0
-10,Pierre Gasly,AlphaTauri,10.0,75.767,75.508,,20.0,Engine,0.0,,2020,3,Hungarian Grand Prix,20.0
-3,Daniel Ricciardo,Renault,11.0,75.848,75.661,,8.0,+1 Lap,4.0,,2020,3,Hungarian Grand Prix,8.0
-63,George Russell,Williams,12.0,75.585,75.698,,18.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,18.0
-23,Alexander Albon,Red Bull Racing,13.0,75.722,75.715,,5.0,Finished,10.0,78.316,2020,3,Hungarian Grand Prix,5.0
-31,Esteban Ocon,Renault,14.0,75.719,75.742,,14.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,14.0
-6,Nicholas Latifi,Williams,15.0,76.105,76.544,,19.0,+5 Laps,0.0,,2020,3,Hungarian Grand Prix,19.0
-20,Kevin Magnussen,Haas F1 Team,16.0,76.152,,,10.0,+1 Lap,1.0,,2020,3,Hungarian Grand Prix,10.0
-26,Daniil Kvyat,AlphaTauri,17.0,76.204,,,12.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,12.0
-8,Romain Grosjean,Haas F1 Team,18.0,76.407,,,16.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,16.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,76.506,,,17.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,17.0
-7,Kimi Räikkönen,Alfa Romeo Racing,20.0,76.614,,,15.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix,15.0
-44,Lewis Hamilton,Mercedes,1.0,85.9,85.347,84.303,1.0,Finished,25.0,5281.283,2020,4,British Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,85.801,85.015,84.616,11.0,Finished,0.0,42.167,2020,4,British Grand Prix,11.0
-33,Max Verstappen,Red Bull Racing,3.0,86.115,86.144,85.325,2.0,Finished,19.0,5.856,2020,4,British Grand Prix,2.0
-16,Charles Leclerc,Ferrari,4.0,86.55,86.203,85.427,3.0,Finished,15.0,18.474,2020,4,British Grand Prix,3.0
-4,Lando Norris,McLaren,5.0,86.855,86.42,85.782,5.0,Finished,10.0,22.277,2020,4,British Grand Prix,5.0
-18,Lance Stroll,Racing Point,6.0,86.243,86.501,85.839,9.0,Finished,2.0,37.311,2020,4,British Grand Prix,9.0
-55,Carlos Sainz,McLaren,7.0,86.715,86.149,85.965,13.0,Finished,0.0,53.37,2020,4,British Grand Prix,13.0
-3,Daniel Ricciardo,Renault,8.0,86.677,86.339,86.009,4.0,Finished,12.0,19.65,2020,4,British Grand Prix,4.0
-31,Esteban Ocon,Renault,9.0,86.396,86.252,86.209,6.0,Finished,8.0,26.937,2020,4,British Grand Prix,6.0
-5,Sebastian Vettel,Ferrari,10.0,86.469,86.455,86.339,10.0,Finished,1.0,41.857,2020,4,British Grand Prix,10.0
-10,Pierre Gasly,AlphaTauri,11.0,86.343,86.501,,7.0,Finished,6.0,31.188,2020,4,British Grand Prix,7.0
-23,Alexander Albon,Red Bull Racing,12.0,86.565,86.545,,8.0,Finished,4.0,32.67,2020,4,British Grand Prix,8.0
-27,Nico Hulkenberg,Racing Point,13.0,86.327,86.566,,20.0,Power Unit,0.0,,2020,4,British Grand Prix,20.0
-26,Daniil Kvyat,AlphaTauri,14.0,86.774,86.744,,18.0,Accident,0.0,,2020,4,British Grand Prix,18.0
-63,George Russell,Williams,15.0,86.732,87.092,,12.0,Finished,0.0,52.004,2020,4,British Grand Prix,12.0
-20,Kevin Magnussen,Haas F1 Team,16.0,87.158,,,19.0,Collision,0.0,,2020,4,British Grand Prix,19.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,87.164,,,14.0,Finished,0.0,54.205,2020,4,British Grand Prix,14.0
-7,Kimi Räikkönen,Alfa Romeo Racing,18.0,87.366,,,17.0,+1 Lap,0.0,,2020,4,British Grand Prix,17.0
-8,Romain Grosjean,Haas F1 Team,19.0,87.643,,,16.0,Finished,0.0,55.05,2020,4,British Grand Prix,16.0
-6,Nicholas Latifi,Williams,20.0,87.705,,,15.0,Finished,0.0,54.549,2020,4,British Grand Prix,15.0
-77,Valtteri Bottas,Mercedes,1.0,86.738,85.785,85.154,3.0,Finished,15.0,19.231,2020,5,70th Anniversary Grand Prix,3.0
-44,Lewis Hamilton,Mercedes,2.0,86.818,86.266,85.217,2.0,Finished,19.0,11.326,2020,5,70th Anniversary Grand Prix,2.0
-27,Nico Hulkenberg,Racing Point,3.0,87.279,86.261,86.082,7.0,Finished,6.0,55.951,2020,5,70th Anniversary Grand Prix,7.0
-33,Max Verstappen,Red Bull Racing,4.0,87.154,86.779,86.176,1.0,Finished,25.0,4781.993,2020,5,70th Anniversary Grand Prix,1.0
-3,Daniel Ricciardo,Renault,5.0,87.442,86.636,86.297,14.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,14.0
-18,Lance Stroll,Racing Point,6.0,87.187,86.674,86.428,6.0,Finished,8.0,42.538,2020,5,70th Anniversary Grand Prix,6.0
-10,Pierre Gasly,AlphaTauri,7.0,87.154,86.523,86.534,11.0,Finished,0.0,70.642,2020,5,70th Anniversary Grand Prix,11.0
-16,Charles Leclerc,Ferrari,8.0,87.427,86.709,86.614,4.0,Finished,12.0,29.289,2020,5,70th Anniversary Grand Prix,4.0
-23,Alexander Albon,Red Bull Racing,9.0,87.153,86.642,86.669,5.0,Finished,10.0,39.146,2020,5,70th Anniversary Grand Prix,5.0
-4,Lando Norris,McLaren,10.0,87.217,86.885,86.778,9.0,Finished,2.0,65.544,2020,5,70th Anniversary Grand Prix,9.0
-31,Esteban Ocon,Renault,11.0,87.278,87.011,,8.0,Finished,4.0,64.773,2020,5,70th Anniversary Grand Prix,8.0
-5,Sebastian Vettel,Ferrari,12.0,87.612,87.078,,12.0,Finished,0.0,73.37,2020,5,70th Anniversary Grand Prix,12.0
-55,Carlos Sainz,McLaren,13.0,87.45,87.083,,13.0,Finished,0.0,74.07,2020,5,70th Anniversary Grand Prix,13.0
-8,Romain Grosjean,Haas F1 Team,14.0,87.519,87.254,,16.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,16.0
-63,George Russell,Williams,15.0,87.757,87.455,,18.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,18.0
-26,Daniil Kvyat,AlphaTauri,16.0,87.882,,,10.0,Finished,1.0,69.669,2020,5,70th Anniversary Grand Prix,10.0
-20,Kevin Magnussen,Haas F1 Team,17.0,88.236,,,20.0,Retired,0.0,,2020,5,70th Anniversary Grand Prix,20.0
-6,Nicholas Latifi,Williams,18.0,88.43,,,19.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,19.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,88.433,,,17.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,17.0
-7,Kimi Räikkönen,Alfa Romeo Racing,20.0,88.493,,,15.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix,15.0
-44,Lewis Hamilton,Mercedes,1.0,76.872,76.013,75.584,1.0,Finished,25.0,5505.279,2020,6,Spanish Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,77.243,76.152,75.643,3.0,Finished,16.0,44.752,2020,6,Spanish Grand Prix,3.0
-33,Max Verstappen,Red Bull Racing,3.0,77.213,76.518,76.292,2.0,Finished,18.0,24.177,2020,6,Spanish Grand Prix,2.0
-11,Sergio Perez,Racing Point,4.0,77.117,76.936,76.482,5.0,+1 Lap,10.0,,2020,6,Spanish Grand Prix,5.0
-18,Lance Stroll,Racing Point,5.0,77.316,76.666,76.589,4.0,+1 Lap,12.0,,2020,6,Spanish Grand Prix,4.0
-23,Alexander Albon,Red Bull Racing,6.0,77.419,77.163,77.029,8.0,+1 Lap,4.0,,2020,6,Spanish Grand Prix,8.0
-55,Carlos Sainz,McLaren,7.0,77.438,76.876,77.044,6.0,+1 Lap,8.0,,2020,6,Spanish Grand Prix,6.0
-4,Lando Norris,McLaren,8.0,77.577,77.166,77.084,10.0,+1 Lap,1.0,,2020,6,Spanish Grand Prix,10.0
-16,Charles Leclerc,Ferrari,9.0,77.256,76.953,77.087,20.0,Electronics,0.0,,2020,6,Spanish Grand Prix,20.0
-10,Pierre Gasly,AlphaTauri,10.0,77.356,76.8,77.136,9.0,+1 Lap,2.0,,2020,6,Spanish Grand Prix,9.0
-5,Sebastian Vettel,Ferrari,11.0,77.573,77.168,,7.0,+1 Lap,6.0,,2020,6,Spanish Grand Prix,7.0
-26,Daniil Kvyat,AlphaTauri,12.0,77.676,77.192,,12.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,12.0
-3,Daniel Ricciardo,Renault,13.0,77.667,77.198,,11.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,11.0
-7,Kimi Räikkönen,Alfa Romeo Racing,14.0,77.797,77.386,,14.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,14.0
-31,Esteban Ocon,Renault,15.0,77.765,77.567,,13.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,13.0
-20,Kevin Magnussen,Haas F1 Team,16.0,77.908,,,15.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,15.0
-8,Romain Grosjean,Haas F1 Team,17.0,78.089,,,19.0,+2 Laps,0.0,,2020,6,Spanish Grand Prix,19.0
-63,George Russell,Williams,18.0,78.099,,,17.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,17.0
-6,Nicholas Latifi,Williams,19.0,78.532,,,18.0,+2 Laps,0.0,,2020,6,Spanish Grand Prix,18.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,20.0,78.697,,,16.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix,16.0
-44,Lewis Hamilton,Mercedes,1.0,102.323,102.014,101.252,1.0,Finished,25.0,5048.761,2020,7,Belgian Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,102.534,102.126,101.763,2.0,Finished,18.0,8.448,2020,7,Belgian Grand Prix,2.0
-33,Max Verstappen,Red Bull Racing,3.0,103.197,102.473,101.778,3.0,Finished,15.0,15.455,2020,7,Belgian Grand Prix,3.0
-3,Daniel Ricciardo,Renault,4.0,103.309,102.487,102.061,4.0,Finished,13.0,18.877,2020,7,Belgian Grand Prix,4.0
-23,Alexander Albon,Red Bull Racing,5.0,103.418,102.193,102.264,6.0,Finished,8.0,42.712,2020,7,Belgian Grand Prix,6.0
-31,Esteban Ocon,Renault,6.0,103.505,102.534,102.396,5.0,Finished,10.0,40.65,2020,7,Belgian Grand Prix,5.0
-55,Carlos Sainz,McLaren,7.0,103.322,102.478,102.438,20.0,Exhaust,0.0,,2020,7,Belgian Grand Prix,20.0
-11,Sergio Perez,Racing Point,8.0,103.349,102.67,102.532,10.0,Finished,1.0,53.179,2020,7,Belgian Grand Prix,10.0
-18,Lance Stroll,Racing Point,9.0,103.265,102.491,102.603,9.0,Finished,2.0,52.603,2020,7,Belgian Grand Prix,9.0
-4,Lando Norris,McLaren,10.0,103.514,102.722,102.657,7.0,Finished,6.0,43.774,2020,7,Belgian Grand Prix,7.0
-26,Daniil Kvyat,AlphaTauri,11.0,103.267,102.73,,11.0,Finished,0.0,70.2,2020,7,Belgian Grand Prix,11.0
-10,Pierre Gasly,AlphaTauri,12.0,103.262,102.745,,8.0,Finished,4.0,47.371,2020,7,Belgian Grand Prix,8.0
-16,Charles Leclerc,Ferrari,13.0,103.656,102.996,,14.0,Finished,0.0,74.92,2020,7,Belgian Grand Prix,14.0
-5,Sebastian Vettel,Ferrari,14.0,103.567,103.261,,13.0,Finished,0.0,72.894,2020,7,Belgian Grand Prix,13.0
-63,George Russell,Williams,15.0,103.63,103.468,,19.0,Debris,0.0,,2020,7,Belgian Grand Prix,19.0
-7,Kimi Räikkönen,Alfa Romeo Racing,16.0,103.743,,,12.0,Finished,0.0,71.504,2020,7,Belgian Grand Prix,12.0
-8,Romain Grosjean,Haas F1 Team,17.0,103.838,,,15.0,Finished,0.0,76.793,2020,7,Belgian Grand Prix,15.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,103.95,,,18.0,Accident,0.0,,2020,7,Belgian Grand Prix,18.0
-6,Nicholas Latifi,Williams,19.0,104.138,,,16.0,Finished,0.0,77.795,2020,7,Belgian Grand Prix,16.0
-20,Kevin Magnussen,Haas F1 Team,20.0,104.314,,,17.0,Finished,0.0,85.54,2020,7,Belgian Grand Prix,17.0
-44,Lewis Hamilton,Mercedes,1.0,79.514,79.092,78.887,7.0,Finished,7.0,17.245,2020,8,Italian Grand Prix,7.0
-77,Valtteri Bottas,Mercedes,2.0,79.786,78.952,78.956,5.0,Finished,10.0,7.108,2020,8,Italian Grand Prix,5.0
-55,Carlos Sainz,McLaren,3.0,80.099,79.705,79.695,2.0,Finished,18.0,0.415,2020,8,Italian Grand Prix,2.0
-11,Sergio Perez,Racing Point,4.0,80.048,79.718,79.72,10.0,Finished,1.0,23.224,2020,8,Italian Grand Prix,10.0
-33,Max Verstappen,Red Bull Racing,5.0,80.193,79.78,79.795,17.0,Power Unit,0.0,,2020,8,Italian Grand Prix,17.0
-4,Lando Norris,McLaren,6.0,80.344,79.962,79.82,4.0,Finished,12.0,6.0,2020,8,Italian Grand Prix,4.0
-3,Daniel Ricciardo,Renault,7.0,80.548,80.031,79.864,6.0,Finished,8.0,8.391,2020,8,Italian Grand Prix,6.0
-18,Lance Stroll,Racing Point,8.0,80.4,79.924,80.049,3.0,Finished,15.0,3.358,2020,8,Italian Grand Prix,3.0
-23,Alexander Albon,Red Bull Racing,9.0,81.104,80.064,80.09,15.0,Finished,0.0,37.533,2020,8,Italian Grand Prix,15.0
-10,Pierre Gasly,AlphaTauri,10.0,80.145,79.909,80.177,1.0,Finished,25.0,6426.056,2020,8,Italian Grand Prix,1.0
-26,Daniil Kvyat,AlphaTauri,11.0,80.307,80.169,,9.0,Finished,2.0,22.208,2020,8,Italian Grand Prix,9.0
-31,Esteban Ocon,Renault,12.0,80.747,80.234,,8.0,Finished,4.0,18.691,2020,8,Italian Grand Prix,8.0
-16,Charles Leclerc,Ferrari,13.0,80.443,80.273,,18.0,Accident,0.0,,2020,8,Italian Grand Prix,18.0
-7,Kimi Räikkönen,Alfa Romeo Racing,14.0,81.01,80.926,,13.0,Finished,0.0,36.312,2020,8,Italian Grand Prix,13.0
-20,Kevin Magnussen,Haas F1 Team,15.0,80.869,81.573,,19.0,Power Unit,0.0,,2020,8,Italian Grand Prix,19.0
-8,Romain Grosjean,Haas F1 Team,16.0,81.139,,,12.0,Finished,0.0,35.164,2020,8,Italian Grand Prix,12.0
-5,Sebastian Vettel,Ferrari,17.0,81.151,,,20.0,Brakes,0.0,,2020,8,Italian Grand Prix,20.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,81.206,,,16.0,Finished,0.0,55.199,2020,8,Italian Grand Prix,16.0
-63,George Russell,Williams,19.0,81.587,,,14.0,Finished,0.0,36.593,2020,8,Italian Grand Prix,14.0
-6,Nicholas Latifi,Williams,20.0,81.717,,,11.0,Finished,0.0,32.876,2020,8,Italian Grand Prix,11.0
-44,Lewis Hamilton,Mercedes,1.0,75.778,75.309,75.144,1.0,Finished,26.0,8375.06,2020,9,Tuscan Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,75.749,75.322,75.203,2.0,Finished,18.0,4.88,2020,9,Tuscan Grand Prix,2.0
-33,Max Verstappen,Red Bull Racing,3.0,76.335,75.471,75.509,19.0,Collision,0.0,,2020,9,Tuscan Grand Prix,19.0
-23,Alexander Albon,Red Bull Racing,4.0,76.527,75.914,75.954,3.0,Finished,15.0,8.064,2020,9,Tuscan Grand Prix,3.0
-16,Charles Leclerc,Ferrari,5.0,76.698,76.324,76.27,8.0,Finished,4.0,28.345,2020,9,Tuscan Grand Prix,8.0
-11,Sergio Perez,Racing Point,6.0,76.596,76.489,76.311,5.0,Finished,10.0,15.65,2020,9,Tuscan Grand Prix,5.0
-18,Lance Stroll,Racing Point,7.0,76.701,76.271,76.356,13.0,Puncture,0.0,,2020,9,Tuscan Grand Prix,13.0
-3,Daniel Ricciardo,Renault,8.0,76.981,76.243,76.543,4.0,Finished,12.0,10.417,2020,9,Tuscan Grand Prix,4.0
-55,Carlos Sainz,McLaren,9.0,76.993,76.522,77.87,18.0,Collision,0.0,,2020,9,Tuscan Grand Prix,18.0
-31,Esteban Ocon,Renault,10.0,76.825,76.297,,14.0,Brakes,0.0,,2020,9,Tuscan Grand Prix,14.0
-4,Lando Norris,McLaren,11.0,76.895,76.64,,6.0,Finished,8.0,18.883,2020,9,Tuscan Grand Prix,6.0
-26,Daniil Kvyat,AlphaTauri,12.0,76.928,76.854,,7.0,Finished,6.0,21.756,2020,9,Tuscan Grand Prix,7.0
-7,Kimi Räikkönen,Alfa Romeo Racing,13.0,77.059,76.854,,9.0,Finished,2.0,29.77,2020,9,Tuscan Grand Prix,9.0
-5,Sebastian Vettel,Ferrari,14.0,77.072,76.858,,10.0,Finished,1.0,29.983,2020,9,Tuscan Grand Prix,10.0
-8,Romain Grosjean,Haas F1 Team,15.0,77.069,77.254,,12.0,Finished,0.0,42.036,2020,9,Tuscan Grand Prix,12.0
-10,Pierre Gasly,AlphaTauri,16.0,77.125,,,20.0,Collision,0.0,,2020,9,Tuscan Grand Prix,20.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,77.22,,,17.0,Collision,0.0,,2020,9,Tuscan Grand Prix,17.0
-63,George Russell,Williams,18.0,77.232,,,11.0,Finished,0.0,32.404,2020,9,Tuscan Grand Prix,11.0
-6,Nicholas Latifi,Williams,19.0,77.32,,,15.0,Collision,0.0,,2020,9,Tuscan Grand Prix,15.0
-20,Kevin Magnussen,Haas F1 Team,20.0,77.348,,,16.0,Collision,0.0,,2020,9,Tuscan Grand Prix,16.0
-44,Lewis Hamilton,Mercedes,1.0,92.983,92.835,91.304,3.0,Finished,15.0,22.729,2020,10,Russian Grand Prix,3.0
-33,Max Verstappen,Red Bull Racing,2.0,93.63,93.157,91.867,2.0,Finished,18.0,7.729,2020,10,Russian Grand Prix,2.0
-77,Valtteri Bottas,Mercedes,3.0,92.656,92.405,91.956,1.0,Finished,26.0,5640.364,2020,10,Russian Grand Prix,1.0
-11,Sergio Perez,Racing Point,4.0,93.704,93.038,92.317,4.0,Finished,12.0,30.558,2020,10,Russian Grand Prix,4.0
-3,Daniel Ricciardo,Renault,5.0,93.65,92.218,92.364,5.0,Finished,10.0,52.065,2020,10,Russian Grand Prix,5.0
-55,Carlos Sainz,McLaren,6.0,93.967,92.757,92.55,19.0,Accident,0.0,,2020,10,Russian Grand Prix,19.0
-31,Esteban Ocon,Renault,7.0,93.557,93.196,92.624,7.0,Finished,6.0,68.006,2020,10,Russian Grand Prix,7.0
-4,Lando Norris,McLaren,8.0,93.804,93.081,92.847,15.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,15.0
-10,Pierre Gasly,AlphaTauri,9.0,93.734,93.139,93.0,9.0,Finished,2.0,89.766,2020,10,Russian Grand Prix,9.0
-23,Alexander Albon,Red Bull Racing,10.0,93.919,93.153,93.008,10.0,Finished,1.0,97.86,2020,10,Russian Grand Prix,10.0
-16,Charles Leclerc,Ferrari,11.0,94.071,93.239,,6.0,Finished,8.0,62.186,2020,10,Russian Grand Prix,6.0
-26,Daniil Kvyat,AlphaTauri,12.0,93.511,93.249,,8.0,Finished,4.0,68.74,2020,10,Russian Grand Prix,8.0
-18,Lance Stroll,Racing Point,13.0,93.852,93.364,,20.0,Collision,0.0,,2020,10,Russian Grand Prix,20.0
-63,George Russell,Williams,14.0,94.02,93.583,,18.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,18.0
-5,Sebastian Vettel,Ferrari,15.0,94.134,93.609,,13.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,13.0
-8,Romain Grosjean,Haas F1 Team,16.0,94.592,,,17.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,17.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,94.594,,,11.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,11.0
-20,Kevin Magnussen,Haas F1 Team,18.0,94.681,,,12.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,12.0
-6,Nicholas Latifi,Williams,19.0,95.066,,,16.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,16.0
-7,Kimi Räikkönen,Alfa Romeo Racing,20.0,95.267,,,14.0,+1 Lap,0.0,,2020,10,Russian Grand Prix,14.0
-77,Valtteri Bottas,Mercedes,1.0,86.573,85.971,85.269,19.0,Power Unit,0.0,,2020,11,Eifel Grand Prix,19.0
-44,Lewis Hamilton,Mercedes,2.0,86.62,85.39,85.525,1.0,Finished,25.0,5749.641,2020,11,Eifel Grand Prix,1.0
-33,Max Verstappen,Red Bull Racing,3.0,86.319,85.467,85.562,2.0,Finished,19.0,4.47,2020,11,Eifel Grand Prix,2.0
-16,Charles Leclerc,Ferrari,4.0,86.857,86.24,86.035,7.0,Finished,6.0,30.814,2020,11,Eifel Grand Prix,7.0
-23,Alexander Albon,Red Bull Racing,5.0,87.126,86.285,86.047,17.0,Radiator,0.0,,2020,11,Eifel Grand Prix,17.0
-3,Daniel Ricciardo,Renault,6.0,86.836,86.096,86.223,3.0,Finished,15.0,14.613,2020,11,Eifel Grand Prix,3.0
-31,Esteban Ocon,Renault,7.0,87.086,86.364,86.242,18.0,Gearbox,0.0,,2020,11,Eifel Grand Prix,18.0
-4,Lando Norris,McLaren,8.0,86.829,86.316,86.458,16.0,Power Unit,0.0,,2020,11,Eifel Grand Prix,16.0
-11,Sergio Perez,Racing Point,9.0,87.12,86.33,86.704,4.0,Finished,12.0,16.07,2020,11,Eifel Grand Prix,4.0
-55,Carlos Sainz,McLaren,10.0,87.378,86.361,86.709,5.0,Finished,10.0,21.905,2020,11,Eifel Grand Prix,5.0
-5,Sebastian Vettel,Ferrari,11.0,87.107,86.738,,11.0,Finished,0.0,40.81,2020,11,Eifel Grand Prix,11.0
-10,Pierre Gasly,AlphaTauri,12.0,87.072,86.776,,6.0,Finished,8.0,22.766,2020,11,Eifel Grand Prix,6.0
-26,Daniil Kvyat,AlphaTauri,13.0,87.285,86.848,,15.0,Finished,0.0,55.588,2020,11,Eifel Grand Prix,15.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,87.532,86.936,,10.0,Finished,1.0,40.035,2020,11,Eifel Grand Prix,10.0
-20,Kevin Magnussen,Haas F1 Team,15.0,87.231,87.125,,13.0,Finished,0.0,49.585,2020,11,Eifel Grand Prix,13.0
-8,Romain Grosjean,Haas F1 Team,16.0,87.552,,,9.0,Finished,2.0,39.081,2020,11,Eifel Grand Prix,9.0
-63,George Russell,Williams,17.0,87.564,,,20.0,Collision,0.0,,2020,11,Eifel Grand Prix,20.0
-6,Nicholas Latifi,Williams,18.0,87.812,,,14.0,Finished,0.0,54.449,2020,11,Eifel Grand Prix,14.0
-7,Kimi Räikkönen,Alfa Romeo Racing,19.0,87.817,,,12.0,Finished,0.0,41.476,2020,11,Eifel Grand Prix,12.0
-27,Nico Hulkenberg,Racing Point,20.0,88.021,,,8.0,Finished,4.0,32.596,2020,11,Eifel Grand Prix,8.0
-44,Lewis Hamilton,Mercedes,1.0,76.828,76.824,76.652,1.0,Finished,26.0,5396.828,2020,12,Portuguese Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,76.945,76.466,76.754,2.0,Finished,18.0,25.592,2020,12,Portuguese Grand Prix,2.0
-33,Max Verstappen,Red Bull Racing,3.0,76.879,77.038,76.904,3.0,Finished,15.0,34.508,2020,12,Portuguese Grand Prix,3.0
-16,Charles Leclerc,Ferrari,4.0,77.421,77.367,77.09,4.0,Finished,12.0,65.312,2020,12,Portuguese Grand Prix,4.0
-11,Sergio Perez,Racing Point,5.0,77.37,77.129,77.223,7.0,+1 Lap,6.0,,2020,12,Portuguese Grand Prix,7.0
-23,Alexander Albon,Red Bull Racing,6.0,77.435,77.411,77.437,12.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,12.0
-55,Carlos Sainz,McLaren,7.0,77.627,77.183,77.52,6.0,+1 Lap,8.0,,2020,12,Portuguese Grand Prix,6.0
-4,Lando Norris,McLaren,8.0,77.547,77.321,77.525,13.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,13.0
-10,Pierre Gasly,AlphaTauri,9.0,77.209,77.367,77.803,5.0,+1 Lap,10.0,,2020,12,Portuguese Grand Prix,5.0
-3,Daniel Ricciardo,Renault,10.0,77.621,77.481,,9.0,+1 Lap,2.0,,2020,12,Portuguese Grand Prix,9.0
-31,Esteban Ocon,Renault,11.0,77.775,77.614,,8.0,+1 Lap,4.0,,2020,12,Portuguese Grand Prix,8.0
-18,Lance Stroll,Racing Point,12.0,77.667,77.626,,20.0,Collision damage,0.0,,2020,12,Portuguese Grand Prix,20.0
-26,Daniil Kvyat,AlphaTauri,13.0,77.841,77.728,,19.0,+2 Laps,0.0,,2020,12,Portuguese Grand Prix,19.0
-63,George Russell,Williams,14.0,77.931,77.788,,14.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,14.0
-5,Sebastian Vettel,Ferrari,15.0,77.446,77.919,,10.0,+1 Lap,1.0,,2020,12,Portuguese Grand Prix,10.0
-7,Kimi Räikkönen,Alfa Romeo Racing,16.0,78.201,,,11.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,11.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,78.323,,,15.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,15.0
-8,Romain Grosjean,Haas F1 Team,18.0,78.364,,,17.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,17.0
-20,Kevin Magnussen,Haas F1 Team,19.0,78.508,,,16.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix,16.0
-6,Nicholas Latifi,Williams,20.0,78.777,,,18.0,+2 Laps,0.0,,2020,12,Portuguese Grand Prix,18.0
-77,Valtteri Bottas,Mercedes,1.0,74.221,74.585,73.609,2.0,Finished,18.0,5.783,2020,13,Emilia Romagna Grand Prix,2.0
-44,Lewis Hamilton,Mercedes,2.0,74.229,74.643,73.706,1.0,Finished,26.0,5312.43,2020,13,Emilia Romagna Grand Prix,1.0
-33,Max Verstappen,Red Bull Racing,3.0,75.034,74.974,74.176,17.0,Puncture,0.0,,2020,13,Emilia Romagna Grand Prix,17.0
-10,Pierre Gasly,AlphaTauri,4.0,75.183,74.681,74.502,20.0,Water pressure,0.0,,2020,13,Emilia Romagna Grand Prix,20.0
-3,Daniel Ricciardo,Renault,5.0,75.474,74.953,74.52,3.0,Finished,15.0,14.32,2020,13,Emilia Romagna Grand Prix,3.0
-23,Alexander Albon,Red Bull Racing,6.0,75.402,74.745,74.572,15.0,Finished,0.0,57.284,2020,13,Emilia Romagna Grand Prix,15.0
-16,Charles Leclerc,Ferrari,7.0,75.123,75.017,74.616,5.0,Finished,10.0,19.111,2020,13,Emilia Romagna Grand Prix,5.0
-26,Daniil Kvyat,AlphaTauri,8.0,75.412,75.022,74.696,4.0,Finished,12.0,15.141,2020,13,Emilia Romagna Grand Prix,4.0
-4,Lando Norris,McLaren,9.0,75.274,75.051,74.814,8.0,Finished,4.0,21.131,2020,13,Emilia Romagna Grand Prix,8.0
-55,Carlos Sainz,McLaren,10.0,75.528,75.027,74.911,7.0,Finished,6.0,20.23,2020,13,Emilia Romagna Grand Prix,7.0
-11,Sergio Perez,Racing Point,11.0,75.407,75.061,,6.0,Finished,8.0,19.652,2020,13,Emilia Romagna Grand Prix,6.0
-31,Esteban Ocon,Renault,12.0,75.352,75.201,,19.0,Gearbox,0.0,,2020,13,Emilia Romagna Grand Prix,19.0
-63,George Russell,Williams,13.0,75.76,75.323,,16.0,Accident,0.0,,2020,13,Emilia Romagna Grand Prix,16.0
-5,Sebastian Vettel,Ferrari,14.0,75.571,75.385,,12.0,Finished,0.0,28.453,2020,13,Emilia Romagna Grand Prix,12.0
-18,Lance Stroll,Racing Point,15.0,75.822,75.494,,13.0,Finished,0.0,29.163,2020,13,Emilia Romagna Grand Prix,13.0
-8,Romain Grosjean,Haas F1 Team,16.0,75.918,,,14.0,Finished,0.0,32.935,2020,13,Emilia Romagna Grand Prix,14.0
-20,Kevin Magnussen,Haas F1 Team,17.0,75.939,,,18.0,Illness,0.0,,2020,13,Emilia Romagna Grand Prix,18.0
-7,Kimi Räikkönen,Alfa Romeo Racing,18.0,75.953,,,9.0,Finished,2.0,22.224,2020,13,Emilia Romagna Grand Prix,9.0
-6,Nicholas Latifi,Williams,19.0,75.987,,,11.0,Finished,0.0,27.135,2020,13,Emilia Romagna Grand Prix,11.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,20.0,76.208,,,10.0,Finished,1.0,26.398,2020,13,Emilia Romagna Grand Prix,10.0
-18,Lance Stroll,Racing Point,1.0,127.467,113.372,107.765,9.0,Finished,2.0,72.353,2020,14,Turkish Grand Prix,9.0
-33,Max Verstappen,Red Bull Racing,2.0,117.485,110.293,108.055,6.0,Finished,8.0,44.873,2020,14,Turkish Grand Prix,6.0
-11,Sergio Perez,Racing Point,3.0,127.614,114.097,109.321,2.0,Finished,18.0,31.633,2020,14,Turkish Grand Prix,2.0
-23,Alexander Albon,Red Bull Racing,4.0,119.431,112.282,110.448,7.0,Finished,6.0,46.484,2020,14,Turkish Grand Prix,7.0
-3,Daniel Ricciardo,Renault,5.0,125.598,114.278,111.595,10.0,Finished,1.0,95.46,2020,14,Turkish Grand Prix,10.0
-44,Lewis Hamilton,Mercedes,6.0,127.599,112.709,112.56,1.0,Finished,25.0,6139.313,2020,14,Turkish Grand Prix,1.0
-31,Esteban Ocon,Renault,7.0,126.115,113.657,112.622,11.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,11.0
-7,Kimi Räikkönen,Alfa Romeo Racing,8.0,121.249,113.793,112.745,15.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,15.0
-77,Valtteri Bottas,Mercedes,9.0,127.001,113.767,113.258,14.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,14.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,10.0,127.341,113.431,117.226,20.0,Gearbox,0.0,,2020,14,Turkish Grand Prix,20.0
-4,Lando Norris,McLaren,11.0,127.167,114.945,,8.0,Finished,5.0,61.259,2020,14,Turkish Grand Prix,8.0
-5,Sebastian Vettel,Ferrari,12.0,123.356,115.169,,3.0,Finished,15.0,31.96,2020,14,Turkish Grand Prix,3.0
-55,Carlos Sainz,McLaren,13.0,127.489,115.41,,5.0,Finished,10.0,34.363,2020,14,Turkish Grand Prix,5.0
-16,Charles Leclerc,Ferrari,14.0,124.464,116.696,,4.0,Finished,12.0,33.858,2020,14,Turkish Grand Prix,4.0
-10,Pierre Gasly,AlphaTauri,15.0,125.579,118.556,,13.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,13.0
-20,Kevin Magnussen,Haas F1 Team,16.0,128.007,,,17.0,Withdrew,0.0,,2020,14,Turkish Grand Prix,17.0
-26,Daniil Kvyat,AlphaTauri,17.0,129.07,,,12.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,12.0
-63,George Russell,Williams,18.0,130.017,,,16.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix,16.0
-8,Romain Grosjean,Haas F1 Team,19.0,132.909,,,18.0,Collision damage,0.0,,2020,14,Turkish Grand Prix,18.0
-6,Nicholas Latifi,Williams,20.0,141.611,,,19.0,Collision damage,0.0,,2020,14,Turkish Grand Prix,19.0
-44,Lewis Hamilton,Mercedes,1.0,88.343,87.586,87.264,1.0,Finished,25.0,10787.515,2020,15,Bahrain Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,88.767,88.063,87.553,8.0,Finished,4.0,19.68,2020,15,Bahrain Grand Prix,8.0
-33,Max Verstappen,Red Bull Racing,3.0,88.885,88.025,87.678,2.0,Finished,19.0,1.254,2020,15,Bahrain Grand Prix,2.0
-23,Alexander Albon,Red Bull Racing,4.0,88.732,88.749,88.274,3.0,Finished,15.0,8.005,2020,15,Bahrain Grand Prix,3.0
-11,Sergio Perez,Racing Point,5.0,89.178,88.894,88.322,18.0,Engine,0.0,,2020,15,Bahrain Grand Prix,18.0
-3,Daniel Ricciardo,Renault,6.0,89.005,88.648,88.417,7.0,Finished,6.0,19.368,2020,15,Bahrain Grand Prix,7.0
-31,Esteban Ocon,Renault,7.0,89.203,88.937,88.419,9.0,Finished,2.0,22.803,2020,15,Bahrain Grand Prix,9.0
-10,Pierre Gasly,AlphaTauri,8.0,88.971,89.008,88.448,6.0,Finished,8.0,11.942,2020,15,Bahrain Grand Prix,6.0
-4,Lando Norris,McLaren,9.0,89.464,88.877,88.542,4.0,Finished,12.0,11.337,2020,15,Bahrain Grand Prix,4.0
-26,Daniil Kvyat,AlphaTauri,10.0,89.158,88.944,88.618,11.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,11.0
-5,Sebastian Vettel,Ferrari,11.0,89.142,89.149,,13.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,13.0
-16,Charles Leclerc,Ferrari,12.0,89.137,89.165,,10.0,+1 Lap,1.0,,2020,15,Bahrain Grand Prix,10.0
-18,Lance Stroll,Racing Point,13.0,88.679,89.557,,19.0,Collision,0.0,,2020,15,Bahrain Grand Prix,19.0
-63,George Russell,Williams,14.0,89.294,91.218,,12.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,12.0
-55,Carlos Sainz,McLaren,15.0,88.975,,,5.0,Finished,10.0,11.787,2020,15,Bahrain Grand Prix,5.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,16.0,89.491,,,16.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,16.0
-7,Kimi Räikkönen,Alfa Romeo Racing,17.0,89.81,,,15.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,15.0
-20,Kevin Magnussen,Haas F1 Team,18.0,90.111,,,17.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,17.0
-8,Romain Grosjean,Haas F1 Team,19.0,90.138,,,20.0,Collision,0.0,,2020,15,Bahrain Grand Prix,20.0
-6,Nicholas Latifi,Williams,20.0,90.182,,,14.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix,14.0
-77,Valtteri Bottas,Mercedes,1.0,53.904,53.803,53.377,8.0,Finished,4.0,15.389,2020,16,Sakhir Grand Prix,8.0
-63,George Russell,Mercedes,2.0,54.16,53.819,53.403,9.0,Finished,3.0,18.556,2020,16,Sakhir Grand Prix,9.0
-33,Max Verstappen,Red Bull Racing,3.0,54.037,53.647,53.433,19.0,Accident,0.0,,2020,16,Sakhir Grand Prix,19.0
-16,Charles Leclerc,Ferrari,4.0,54.249,53.825,53.613,20.0,Collision,0.0,,2020,16,Sakhir Grand Prix,20.0
-11,Sergio Perez,Racing Point,5.0,54.236,53.787,53.79,1.0,Finished,25.0,5475.114,2020,16,Sakhir Grand Prix,1.0
-26,Daniil Kvyat,AlphaTauri,6.0,54.346,53.856,53.906,7.0,Finished,6.0,14.534,2020,16,Sakhir Grand Prix,7.0
-3,Daniel Ricciardo,Renault,7.0,54.388,53.871,53.957,5.0,Finished,10.0,13.33,2020,16,Sakhir Grand Prix,5.0
-55,Carlos Sainz,McLaren,8.0,54.45,53.818,54.01,4.0,Finished,12.0,12.58,2020,16,Sakhir Grand Prix,4.0
-10,Pierre Gasly,AlphaTauri,9.0,54.207,53.941,54.154,11.0,Finished,0.0,20.527,2020,16,Sakhir Grand Prix,11.0
-18,Lance Stroll,Racing Point,10.0,54.595,53.84,54.2,3.0,Finished,15.0,11.869,2020,16,Sakhir Grand Prix,3.0
-31,Esteban Ocon,Renault,11.0,54.309,53.995,,2.0,Finished,18.0,10.518,2020,16,Sakhir Grand Prix,2.0
-23,Alexander Albon,Red Bull Racing,12.0,54.62,54.026,,6.0,Finished,8.0,13.842,2020,16,Sakhir Grand Prix,6.0
-5,Sebastian Vettel,Ferrari,13.0,54.301,54.175,,12.0,Finished,0.0,22.611,2020,16,Sakhir Grand Prix,12.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,54.523,54.377,,13.0,Finished,0.0,24.111,2020,16,Sakhir Grand Prix,13.0
-4,Lando Norris,McLaren,15.0,54.194,54.693,,10.0,Finished,1.0,19.541,2020,16,Sakhir Grand Prix,10.0
-20,Kevin Magnussen,Haas F1 Team,16.0,54.705,,,15.0,Finished,0.0,32.37,2020,16,Sakhir Grand Prix,15.0
-6,Nicholas Latifi,Williams,17.0,54.796,,,18.0,Engine,0.0,,2020,16,Sakhir Grand Prix,18.0
-89,Jack Aitken,Williams,18.0,54.892,,,16.0,Finished,0.0,33.674,2020,16,Sakhir Grand Prix,16.0
-7,Kimi Räikkönen,Alfa Romeo Racing,19.0,54.963,,,14.0,Finished,0.0,26.153,2020,16,Sakhir Grand Prix,14.0
-51,Pietro Fittipaldi,Haas F1 Team,20.0,55.426,,,17.0,Finished,0.0,36.858,2020,16,Sakhir Grand Prix,17.0
-33,Max Verstappen,Red Bull Racing,1.0,95.993,95.641,95.246,1.0,Finished,25.0,5788.645,2020,17,Abu Dhabi Grand Prix,1.0
-77,Valtteri Bottas,Mercedes,2.0,95.699,95.527,95.271,2.0,Finished,18.0,15.976,2020,17,Abu Dhabi Grand Prix,2.0
-44,Lewis Hamilton,Mercedes,3.0,95.528,95.466,95.332,3.0,Finished,15.0,18.415,2020,17,Abu Dhabi Grand Prix,3.0
-4,Lando Norris,McLaren,4.0,96.016,95.849,95.497,5.0,Finished,10.0,60.729,2020,17,Abu Dhabi Grand Prix,5.0
-23,Alexander Albon,Red Bull Racing,5.0,96.106,95.654,95.571,4.0,Finished,12.0,19.987,2020,17,Abu Dhabi Grand Prix,4.0
-55,Carlos Sainz,McLaren,6.0,96.517,96.192,95.815,6.0,Finished,8.0,65.662,2020,17,Abu Dhabi Grand Prix,6.0
-26,Daniil Kvyat,AlphaTauri,7.0,96.459,96.214,95.963,11.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,11.0
-18,Lance Stroll,Racing Point,8.0,96.502,96.143,96.046,10.0,Finished,1.0,1.669,2020,17,Abu Dhabi Grand Prix,10.0
-16,Charles Leclerc,Ferrari,9.0,95.881,95.932,96.065,13.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,13.0
-10,Pierre Gasly,AlphaTauri,10.0,96.545,96.282,96.242,8.0,Finished,4.0,89.718,2020,17,Abu Dhabi Grand Prix,8.0
-31,Esteban Ocon,Renault,11.0,96.783,96.359,,9.0,Finished,2.0,11.351,2020,17,Abu Dhabi Grand Prix,9.0
-3,Daniel Ricciardo,Renault,12.0,96.704,96.406,,7.0,Finished,7.0,73.748,2020,17,Abu Dhabi Grand Prix,7.0
-5,Sebastian Vettel,Ferrari,13.0,96.655,96.631,,14.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,14.0
-99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,97.075,98.248,,16.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,16.0
-11,Sergio Perez,Racing Point,15.0,96.034,,,20.0,Transmission,0.0,,2020,17,Abu Dhabi Grand Prix,20.0
-7,Kimi Räikkönen,Alfa Romeo Racing,16.0,97.555,,,12.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,12.0
-20,Kevin Magnussen,Haas F1 Team,17.0,97.863,,,18.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,18.0
-63,George Russell,Williams,18.0,98.045,,,15.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,15.0
-51,Pietro Fittipaldi,Haas F1 Team,19.0,98.173,,,19.0,+2 Laps,0.0,,2020,17,Abu Dhabi Grand Prix,19.0
-6,Nicholas Latifi,Williams,20.0,98.443,,,17.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix,17.0
+DriverNumber,FullName,TeamName,GridPosition,Q1_seconds,Q2_seconds,Q3_seconds,RacePosition,Status,Points,TimeDelta,Season,Round,EventName
+77,Valtteri Bottas,Mercedes,1.0,64.111,63.015,62.939,1.0,Finished,25.0,5455.739,2020,1,Austrian Grand Prix
+44,Lewis Hamilton,Mercedes,2.0,64.198,63.096,62.951,4.0,Finished,12.0,5.689,2020,1,Austrian Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,64.024,64.0,63.477,20.0,Electronics,0.0,,2020,1,Austrian Grand Prix
+4,Lando Norris,McLaren,4.0,64.606,63.819,63.626,3.0,Finished,16.0,5.491,2020,1,Austrian Grand Prix
+23,Alexander Albon,Red Bull Racing,5.0,64.661,63.746,63.868,13.0,Electronics,0.0,,2020,1,Austrian Grand Prix
+11,Sergio Perez,Racing Point,6.0,64.543,63.86,63.868,6.0,Finished,8.0,15.092,2020,1,Austrian Grand Prix
+16,Charles Leclerc,Ferrari,7.0,64.5,64.041,63.923,2.0,Finished,18.0,2.7,2020,1,Austrian Grand Prix
+55,Carlos Sainz,McLaren,8.0,64.537,63.971,63.971,5.0,Finished,10.0,8.903,2020,1,Austrian Grand Prix
+18,Lance Stroll,Racing Point,9.0,64.309,63.955,64.029,18.0,Engine,0.0,,2020,1,Austrian Grand Prix
+3,Daniel Ricciardo,Renault,10.0,64.556,64.023,64.239,19.0,Overheating,0.0,,2020,1,Austrian Grand Prix
+5,Sebastian Vettel,Ferrari,11.0,64.554,64.206,,10.0,Finished,1.0,24.545,2020,1,Austrian Grand Prix
+10,Pierre Gasly,AlphaTauri,12.0,64.603,64.305,,7.0,Finished,6.0,16.682,2020,1,Austrian Grand Prix
+26,Daniil Kvyat,AlphaTauri,13.0,65.031,64.431,,12.0,Suspension,0.0,,2020,1,Austrian Grand Prix
+31,Esteban Ocon,Renault,14.0,64.933,64.643,,8.0,Finished,4.0,17.456,2020,1,Austrian Grand Prix
+8,Romain Grosjean,Haas F1 Team,15.0,65.094,64.691,,16.0,Brakes,0.0,,2020,1,Austrian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,65.164,,,17.0,Brakes,0.0,,2020,1,Austrian Grand Prix
+63,George Russell,Williams,17.0,65.167,,,15.0,Fuel pressure,0.0,,2020,1,Austrian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,65.175,,,9.0,Finished,2.0,21.146,2020,1,Austrian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,19.0,65.224,,,14.0,Wheel,0.0,,2020,1,Austrian Grand Prix
+6,Nicholas Latifi,Williams,20.0,65.757,,,11.0,Finished,0.0,31.65,2020,1,Austrian Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,78.188,77.825,79.273,1.0,Finished,25.0,4970.683,2020,2,Styrian Grand Prix
+33,Max Verstappen,Red Bull Racing,2.0,78.297,77.938,80.489,3.0,Finished,15.0,33.698,2020,2,Styrian Grand Prix
+55,Carlos Sainz,McLaren,3.0,78.59,78.836,80.671,9.0,+1 Lap,3.0,,2020,2,Styrian Grand Prix
+77,Valtteri Bottas,Mercedes,4.0,78.791,78.657,80.701,2.0,Finished,18.0,13.719,2020,2,Styrian Grand Prix
+31,Esteban Ocon,Renault,5.0,79.687,78.764,80.922,18.0,Overheating,0.0,,2020,2,Styrian Grand Prix
+4,Lando Norris,McLaren,6.0,78.504,78.448,80.925,5.0,Finished,10.0,61.47,2020,2,Styrian Grand Prix
+23,Alexander Albon,Red Bull Racing,7.0,80.882,79.014,81.011,4.0,Finished,12.0,44.4,2020,2,Styrian Grand Prix
+10,Pierre Gasly,AlphaTauri,8.0,80.192,78.744,81.028,15.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix
+3,Daniel Ricciardo,Renault,9.0,79.662,79.229,81.192,8.0,Finished,4.0,62.591,2020,2,Styrian Grand Prix
+5,Sebastian Vettel,Ferrari,10.0,80.243,79.545,81.651,20.0,Collision damage,0.0,,2020,2,Styrian Grand Prix
+16,Charles Leclerc,Ferrari,11.0,80.871,79.628,,19.0,Collision damage,0.0,,2020,2,Styrian Grand Prix
+63,George Russell,Williams,12.0,80.382,79.636,,16.0,+2 Laps,0.0,,2020,2,Styrian Grand Prix
+18,Lance Stroll,Racing Point,13.0,79.697,79.645,,7.0,Finished,6.0,62.453,2020,2,Styrian Grand Prix
+26,Daniil Kvyat,AlphaTauri,14.0,79.824,79.717,,10.0,+1 Lap,1.0,,2020,2,Styrian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,15.0,81.14,80.211,,12.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,81.14,,,11.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix
+11,Sergio Perez,Racing Point,17.0,81.607,,,6.0,Finished,8.0,62.387,2020,2,Styrian Grand Prix
+6,Nicholas Latifi,Williams,18.0,81.759,,,17.0,+2 Laps,0.0,,2020,2,Styrian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,81.831,,,14.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix
+8,Romain Grosjean,Haas F1 Team,20.0,,,,13.0,+1 Lap,0.0,,2020,2,Styrian Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,74.907,74.261,73.447,1.0,Finished,26.0,5772.473,2020,3,Hungarian Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,75.474,74.53,73.554,3.0,Finished,15.0,9.452,2020,3,Hungarian Grand Prix
+18,Lance Stroll,Racing Point,3.0,74.895,75.176,74.377,4.0,Finished,12.0,57.579,2020,3,Hungarian Grand Prix
+11,Sergio Perez,Racing Point,4.0,74.681,75.394,74.545,7.0,+1 Lap,6.0,,2020,3,Hungarian Grand Prix
+5,Sebastian Vettel,Ferrari,5.0,75.455,75.131,74.774,6.0,+1 Lap,8.0,,2020,3,Hungarian Grand Prix
+16,Charles Leclerc,Ferrari,6.0,75.793,75.006,74.817,11.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+33,Max Verstappen,Red Bull Racing,7.0,75.495,74.976,74.849,2.0,Finished,18.0,8.702,2020,3,Hungarian Grand Prix
+4,Lando Norris,McLaren,8.0,75.444,75.085,74.966,13.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+55,Carlos Sainz,McLaren,9.0,75.281,75.267,75.027,9.0,+1 Lap,2.0,,2020,3,Hungarian Grand Prix
+10,Pierre Gasly,AlphaTauri,10.0,75.767,75.508,,20.0,Engine,0.0,,2020,3,Hungarian Grand Prix
+3,Daniel Ricciardo,Renault,11.0,75.848,75.661,,8.0,+1 Lap,4.0,,2020,3,Hungarian Grand Prix
+63,George Russell,Williams,12.0,75.585,75.698,,18.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+23,Alexander Albon,Red Bull Racing,13.0,75.722,75.715,,5.0,Finished,10.0,78.316,2020,3,Hungarian Grand Prix
+31,Esteban Ocon,Renault,14.0,75.719,75.742,,14.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+6,Nicholas Latifi,Williams,15.0,76.105,76.544,,19.0,+5 Laps,0.0,,2020,3,Hungarian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,76.152,,,10.0,+1 Lap,1.0,,2020,3,Hungarian Grand Prix
+26,Daniil Kvyat,AlphaTauri,17.0,76.204,,,12.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+8,Romain Grosjean,Haas F1 Team,18.0,76.407,,,16.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,76.506,,,17.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,20.0,76.614,,,15.0,+1 Lap,0.0,,2020,3,Hungarian Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,85.9,85.347,84.303,1.0,Finished,25.0,5281.283,2020,4,British Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,85.801,85.015,84.616,11.0,Finished,0.0,42.167,2020,4,British Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,86.115,86.144,85.325,2.0,Finished,19.0,5.856,2020,4,British Grand Prix
+16,Charles Leclerc,Ferrari,4.0,86.55,86.203,85.427,3.0,Finished,15.0,18.474,2020,4,British Grand Prix
+4,Lando Norris,McLaren,5.0,86.855,86.42,85.782,5.0,Finished,10.0,22.277,2020,4,British Grand Prix
+18,Lance Stroll,Racing Point,6.0,86.243,86.501,85.839,9.0,Finished,2.0,37.311,2020,4,British Grand Prix
+55,Carlos Sainz,McLaren,7.0,86.715,86.149,85.965,13.0,Finished,0.0,53.37,2020,4,British Grand Prix
+3,Daniel Ricciardo,Renault,8.0,86.677,86.339,86.009,4.0,Finished,12.0,19.65,2020,4,British Grand Prix
+31,Esteban Ocon,Renault,9.0,86.396,86.252,86.209,6.0,Finished,8.0,26.937,2020,4,British Grand Prix
+5,Sebastian Vettel,Ferrari,10.0,86.469,86.455,86.339,10.0,Finished,1.0,41.857,2020,4,British Grand Prix
+10,Pierre Gasly,AlphaTauri,11.0,86.343,86.501,,7.0,Finished,6.0,31.188,2020,4,British Grand Prix
+23,Alexander Albon,Red Bull Racing,12.0,86.565,86.545,,8.0,Finished,4.0,32.67,2020,4,British Grand Prix
+27,Nico Hulkenberg,Racing Point,13.0,86.327,86.566,,20.0,Power Unit,0.0,,2020,4,British Grand Prix
+26,Daniil Kvyat,AlphaTauri,14.0,86.774,86.744,,18.0,Accident,0.0,,2020,4,British Grand Prix
+63,George Russell,Williams,15.0,86.732,87.092,,12.0,Finished,0.0,52.004,2020,4,British Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,87.158,,,19.0,Collision,0.0,,2020,4,British Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,87.164,,,14.0,Finished,0.0,54.205,2020,4,British Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,18.0,87.366,,,17.0,+1 Lap,0.0,,2020,4,British Grand Prix
+8,Romain Grosjean,Haas F1 Team,19.0,87.643,,,16.0,Finished,0.0,55.05,2020,4,British Grand Prix
+6,Nicholas Latifi,Williams,20.0,87.705,,,15.0,Finished,0.0,54.549,2020,4,British Grand Prix
+77,Valtteri Bottas,Mercedes,1.0,86.738,85.785,85.154,3.0,Finished,15.0,19.231,2020,5,70th Anniversary Grand Prix
+44,Lewis Hamilton,Mercedes,2.0,86.818,86.266,85.217,2.0,Finished,19.0,11.326,2020,5,70th Anniversary Grand Prix
+27,Nico Hulkenberg,Racing Point,3.0,87.279,86.261,86.082,7.0,Finished,6.0,55.951,2020,5,70th Anniversary Grand Prix
+33,Max Verstappen,Red Bull Racing,4.0,87.154,86.779,86.176,1.0,Finished,25.0,4781.993,2020,5,70th Anniversary Grand Prix
+3,Daniel Ricciardo,Renault,5.0,87.442,86.636,86.297,14.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+18,Lance Stroll,Racing Point,6.0,87.187,86.674,86.428,6.0,Finished,8.0,42.538,2020,5,70th Anniversary Grand Prix
+10,Pierre Gasly,AlphaTauri,7.0,87.154,86.523,86.534,11.0,Finished,0.0,70.642,2020,5,70th Anniversary Grand Prix
+16,Charles Leclerc,Ferrari,8.0,87.427,86.709,86.614,4.0,Finished,12.0,29.289,2020,5,70th Anniversary Grand Prix
+23,Alexander Albon,Red Bull Racing,9.0,87.153,86.642,86.669,5.0,Finished,10.0,39.146,2020,5,70th Anniversary Grand Prix
+4,Lando Norris,McLaren,10.0,87.217,86.885,86.778,9.0,Finished,2.0,65.544,2020,5,70th Anniversary Grand Prix
+31,Esteban Ocon,Renault,11.0,87.278,87.011,,8.0,Finished,4.0,64.773,2020,5,70th Anniversary Grand Prix
+5,Sebastian Vettel,Ferrari,12.0,87.612,87.078,,12.0,Finished,0.0,73.37,2020,5,70th Anniversary Grand Prix
+55,Carlos Sainz,McLaren,13.0,87.45,87.083,,13.0,Finished,0.0,74.07,2020,5,70th Anniversary Grand Prix
+8,Romain Grosjean,Haas F1 Team,14.0,87.519,87.254,,16.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+63,George Russell,Williams,15.0,87.757,87.455,,18.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+26,Daniil Kvyat,AlphaTauri,16.0,87.882,,,10.0,Finished,1.0,69.669,2020,5,70th Anniversary Grand Prix
+20,Kevin Magnussen,Haas F1 Team,17.0,88.236,,,20.0,Retired,0.0,,2020,5,70th Anniversary Grand Prix
+6,Nicholas Latifi,Williams,18.0,88.43,,,19.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,19.0,88.433,,,17.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,20.0,88.493,,,15.0,+1 Lap,0.0,,2020,5,70th Anniversary Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,76.872,76.013,75.584,1.0,Finished,25.0,5505.279,2020,6,Spanish Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,77.243,76.152,75.643,3.0,Finished,16.0,44.752,2020,6,Spanish Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,77.213,76.518,76.292,2.0,Finished,18.0,24.177,2020,6,Spanish Grand Prix
+11,Sergio Perez,Racing Point,4.0,77.117,76.936,76.482,5.0,+1 Lap,10.0,,2020,6,Spanish Grand Prix
+18,Lance Stroll,Racing Point,5.0,77.316,76.666,76.589,4.0,+1 Lap,12.0,,2020,6,Spanish Grand Prix
+23,Alexander Albon,Red Bull Racing,6.0,77.419,77.163,77.029,8.0,+1 Lap,4.0,,2020,6,Spanish Grand Prix
+55,Carlos Sainz,McLaren,7.0,77.438,76.876,77.044,6.0,+1 Lap,8.0,,2020,6,Spanish Grand Prix
+4,Lando Norris,McLaren,8.0,77.577,77.166,77.084,10.0,+1 Lap,1.0,,2020,6,Spanish Grand Prix
+16,Charles Leclerc,Ferrari,9.0,77.256,76.953,77.087,20.0,Electronics,0.0,,2020,6,Spanish Grand Prix
+10,Pierre Gasly,AlphaTauri,10.0,77.356,76.8,77.136,9.0,+1 Lap,2.0,,2020,6,Spanish Grand Prix
+5,Sebastian Vettel,Ferrari,11.0,77.573,77.168,,7.0,+1 Lap,6.0,,2020,6,Spanish Grand Prix
+26,Daniil Kvyat,AlphaTauri,12.0,77.676,77.192,,12.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+3,Daniel Ricciardo,Renault,13.0,77.667,77.198,,11.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,14.0,77.797,77.386,,14.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+31,Esteban Ocon,Renault,15.0,77.765,77.567,,13.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,77.908,,,15.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+8,Romain Grosjean,Haas F1 Team,17.0,78.089,,,19.0,+2 Laps,0.0,,2020,6,Spanish Grand Prix
+63,George Russell,Williams,18.0,78.099,,,17.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+6,Nicholas Latifi,Williams,19.0,78.532,,,18.0,+2 Laps,0.0,,2020,6,Spanish Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,20.0,78.697,,,16.0,+1 Lap,0.0,,2020,6,Spanish Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,102.323,102.014,101.252,1.0,Finished,25.0,5048.761,2020,7,Belgian Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,102.534,102.126,101.763,2.0,Finished,18.0,8.448,2020,7,Belgian Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,103.197,102.473,101.778,3.0,Finished,15.0,15.455,2020,7,Belgian Grand Prix
+3,Daniel Ricciardo,Renault,4.0,103.309,102.487,102.061,4.0,Finished,13.0,18.877,2020,7,Belgian Grand Prix
+23,Alexander Albon,Red Bull Racing,5.0,103.418,102.193,102.264,6.0,Finished,8.0,42.712,2020,7,Belgian Grand Prix
+31,Esteban Ocon,Renault,6.0,103.505,102.534,102.396,5.0,Finished,10.0,40.65,2020,7,Belgian Grand Prix
+55,Carlos Sainz,McLaren,7.0,103.322,102.478,102.438,20.0,Exhaust,0.0,,2020,7,Belgian Grand Prix
+11,Sergio Perez,Racing Point,8.0,103.349,102.67,102.532,10.0,Finished,1.0,53.179,2020,7,Belgian Grand Prix
+18,Lance Stroll,Racing Point,9.0,103.265,102.491,102.603,9.0,Finished,2.0,52.603,2020,7,Belgian Grand Prix
+4,Lando Norris,McLaren,10.0,103.514,102.722,102.657,7.0,Finished,6.0,43.774,2020,7,Belgian Grand Prix
+26,Daniil Kvyat,AlphaTauri,11.0,103.267,102.73,,11.0,Finished,0.0,70.2,2020,7,Belgian Grand Prix
+10,Pierre Gasly,AlphaTauri,12.0,103.262,102.745,,8.0,Finished,4.0,47.371,2020,7,Belgian Grand Prix
+16,Charles Leclerc,Ferrari,13.0,103.656,102.996,,14.0,Finished,0.0,74.92,2020,7,Belgian Grand Prix
+5,Sebastian Vettel,Ferrari,14.0,103.567,103.261,,13.0,Finished,0.0,72.894,2020,7,Belgian Grand Prix
+63,George Russell,Williams,15.0,103.63,103.468,,19.0,Debris,0.0,,2020,7,Belgian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,103.743,,,12.0,Finished,0.0,71.504,2020,7,Belgian Grand Prix
+8,Romain Grosjean,Haas F1 Team,17.0,103.838,,,15.0,Finished,0.0,76.793,2020,7,Belgian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,103.95,,,18.0,Accident,0.0,,2020,7,Belgian Grand Prix
+6,Nicholas Latifi,Williams,19.0,104.138,,,16.0,Finished,0.0,77.795,2020,7,Belgian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,20.0,104.314,,,17.0,Finished,0.0,85.54,2020,7,Belgian Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,79.514,79.092,78.887,7.0,Finished,7.0,17.245,2020,8,Italian Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,79.786,78.952,78.956,5.0,Finished,10.0,7.108,2020,8,Italian Grand Prix
+55,Carlos Sainz,McLaren,3.0,80.099,79.705,79.695,2.0,Finished,18.0,0.415,2020,8,Italian Grand Prix
+11,Sergio Perez,Racing Point,4.0,80.048,79.718,79.72,10.0,Finished,1.0,23.224,2020,8,Italian Grand Prix
+33,Max Verstappen,Red Bull Racing,5.0,80.193,79.78,79.795,17.0,Power Unit,0.0,,2020,8,Italian Grand Prix
+4,Lando Norris,McLaren,6.0,80.344,79.962,79.82,4.0,Finished,12.0,6.0,2020,8,Italian Grand Prix
+3,Daniel Ricciardo,Renault,7.0,80.548,80.031,79.864,6.0,Finished,8.0,8.391,2020,8,Italian Grand Prix
+18,Lance Stroll,Racing Point,8.0,80.4,79.924,80.049,3.0,Finished,15.0,3.358,2020,8,Italian Grand Prix
+23,Alexander Albon,Red Bull Racing,9.0,81.104,80.064,80.09,15.0,Finished,0.0,37.533,2020,8,Italian Grand Prix
+10,Pierre Gasly,AlphaTauri,10.0,80.145,79.909,80.177,1.0,Finished,25.0,6426.056,2020,8,Italian Grand Prix
+26,Daniil Kvyat,AlphaTauri,11.0,80.307,80.169,,9.0,Finished,2.0,22.208,2020,8,Italian Grand Prix
+31,Esteban Ocon,Renault,12.0,80.747,80.234,,8.0,Finished,4.0,18.691,2020,8,Italian Grand Prix
+16,Charles Leclerc,Ferrari,13.0,80.443,80.273,,18.0,Accident,0.0,,2020,8,Italian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,14.0,81.01,80.926,,13.0,Finished,0.0,36.312,2020,8,Italian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,15.0,80.869,81.573,,19.0,Power Unit,0.0,,2020,8,Italian Grand Prix
+8,Romain Grosjean,Haas F1 Team,16.0,81.139,,,12.0,Finished,0.0,35.164,2020,8,Italian Grand Prix
+5,Sebastian Vettel,Ferrari,17.0,81.151,,,20.0,Brakes,0.0,,2020,8,Italian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,18.0,81.206,,,16.0,Finished,0.0,55.199,2020,8,Italian Grand Prix
+63,George Russell,Williams,19.0,81.587,,,14.0,Finished,0.0,36.593,2020,8,Italian Grand Prix
+6,Nicholas Latifi,Williams,20.0,81.717,,,11.0,Finished,0.0,32.876,2020,8,Italian Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,75.778,75.309,75.144,1.0,Finished,26.0,8375.06,2020,9,Tuscan Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,75.749,75.322,75.203,2.0,Finished,18.0,4.88,2020,9,Tuscan Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,76.335,75.471,75.509,19.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+23,Alexander Albon,Red Bull Racing,4.0,76.527,75.914,75.954,3.0,Finished,15.0,8.064,2020,9,Tuscan Grand Prix
+16,Charles Leclerc,Ferrari,5.0,76.698,76.324,76.27,8.0,Finished,4.0,28.345,2020,9,Tuscan Grand Prix
+11,Sergio Perez,Racing Point,6.0,76.596,76.489,76.311,5.0,Finished,10.0,15.65,2020,9,Tuscan Grand Prix
+18,Lance Stroll,Racing Point,7.0,76.701,76.271,76.356,13.0,Puncture,0.0,,2020,9,Tuscan Grand Prix
+3,Daniel Ricciardo,Renault,8.0,76.981,76.243,76.543,4.0,Finished,12.0,10.417,2020,9,Tuscan Grand Prix
+55,Carlos Sainz,McLaren,9.0,76.993,76.522,77.87,18.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+31,Esteban Ocon,Renault,10.0,76.825,76.297,,14.0,Brakes,0.0,,2020,9,Tuscan Grand Prix
+4,Lando Norris,McLaren,11.0,76.895,76.64,,6.0,Finished,8.0,18.883,2020,9,Tuscan Grand Prix
+26,Daniil Kvyat,AlphaTauri,12.0,76.928,76.854,,7.0,Finished,6.0,21.756,2020,9,Tuscan Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,13.0,77.059,76.854,,9.0,Finished,2.0,29.77,2020,9,Tuscan Grand Prix
+5,Sebastian Vettel,Ferrari,14.0,77.072,76.858,,10.0,Finished,1.0,29.983,2020,9,Tuscan Grand Prix
+8,Romain Grosjean,Haas F1 Team,15.0,77.069,77.254,,12.0,Finished,0.0,42.036,2020,9,Tuscan Grand Prix
+10,Pierre Gasly,AlphaTauri,16.0,77.125,,,20.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,77.22,,,17.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+63,George Russell,Williams,18.0,77.232,,,11.0,Finished,0.0,32.404,2020,9,Tuscan Grand Prix
+6,Nicholas Latifi,Williams,19.0,77.32,,,15.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+20,Kevin Magnussen,Haas F1 Team,20.0,77.348,,,16.0,Collision,0.0,,2020,9,Tuscan Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,92.983,92.835,91.304,3.0,Finished,15.0,22.729,2020,10,Russian Grand Prix
+33,Max Verstappen,Red Bull Racing,2.0,93.63,93.157,91.867,2.0,Finished,18.0,7.729,2020,10,Russian Grand Prix
+77,Valtteri Bottas,Mercedes,3.0,92.656,92.405,91.956,1.0,Finished,26.0,5640.364,2020,10,Russian Grand Prix
+11,Sergio Perez,Racing Point,4.0,93.704,93.038,92.317,4.0,Finished,12.0,30.558,2020,10,Russian Grand Prix
+3,Daniel Ricciardo,Renault,5.0,93.65,92.218,92.364,5.0,Finished,10.0,52.065,2020,10,Russian Grand Prix
+55,Carlos Sainz,McLaren,6.0,93.967,92.757,92.55,19.0,Accident,0.0,,2020,10,Russian Grand Prix
+31,Esteban Ocon,Renault,7.0,93.557,93.196,92.624,7.0,Finished,6.0,68.006,2020,10,Russian Grand Prix
+4,Lando Norris,McLaren,8.0,93.804,93.081,92.847,15.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+10,Pierre Gasly,AlphaTauri,9.0,93.734,93.139,93.0,9.0,Finished,2.0,89.766,2020,10,Russian Grand Prix
+23,Alexander Albon,Red Bull Racing,10.0,93.919,93.153,93.008,10.0,Finished,1.0,97.86,2020,10,Russian Grand Prix
+16,Charles Leclerc,Ferrari,11.0,94.071,93.239,,6.0,Finished,8.0,62.186,2020,10,Russian Grand Prix
+26,Daniil Kvyat,AlphaTauri,12.0,93.511,93.249,,8.0,Finished,4.0,68.74,2020,10,Russian Grand Prix
+18,Lance Stroll,Racing Point,13.0,93.852,93.364,,20.0,Collision,0.0,,2020,10,Russian Grand Prix
+63,George Russell,Williams,14.0,94.02,93.583,,18.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+5,Sebastian Vettel,Ferrari,15.0,94.134,93.609,,13.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+8,Romain Grosjean,Haas F1 Team,16.0,94.592,,,17.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,94.594,,,11.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+20,Kevin Magnussen,Haas F1 Team,18.0,94.681,,,12.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+6,Nicholas Latifi,Williams,19.0,95.066,,,16.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,20.0,95.267,,,14.0,+1 Lap,0.0,,2020,10,Russian Grand Prix
+77,Valtteri Bottas,Mercedes,1.0,86.573,85.971,85.269,19.0,Power Unit,0.0,,2020,11,Eifel Grand Prix
+44,Lewis Hamilton,Mercedes,2.0,86.62,85.39,85.525,1.0,Finished,25.0,5749.641,2020,11,Eifel Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,86.319,85.467,85.562,2.0,Finished,19.0,4.47,2020,11,Eifel Grand Prix
+16,Charles Leclerc,Ferrari,4.0,86.857,86.24,86.035,7.0,Finished,6.0,30.814,2020,11,Eifel Grand Prix
+23,Alexander Albon,Red Bull Racing,5.0,87.126,86.285,86.047,17.0,Radiator,0.0,,2020,11,Eifel Grand Prix
+3,Daniel Ricciardo,Renault,6.0,86.836,86.096,86.223,3.0,Finished,15.0,14.613,2020,11,Eifel Grand Prix
+31,Esteban Ocon,Renault,7.0,87.086,86.364,86.242,18.0,Gearbox,0.0,,2020,11,Eifel Grand Prix
+4,Lando Norris,McLaren,8.0,86.829,86.316,86.458,16.0,Power Unit,0.0,,2020,11,Eifel Grand Prix
+11,Sergio Perez,Racing Point,9.0,87.12,86.33,86.704,4.0,Finished,12.0,16.07,2020,11,Eifel Grand Prix
+55,Carlos Sainz,McLaren,10.0,87.378,86.361,86.709,5.0,Finished,10.0,21.905,2020,11,Eifel Grand Prix
+5,Sebastian Vettel,Ferrari,11.0,87.107,86.738,,11.0,Finished,0.0,40.81,2020,11,Eifel Grand Prix
+10,Pierre Gasly,AlphaTauri,12.0,87.072,86.776,,6.0,Finished,8.0,22.766,2020,11,Eifel Grand Prix
+26,Daniil Kvyat,AlphaTauri,13.0,87.285,86.848,,15.0,Finished,0.0,55.588,2020,11,Eifel Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,87.532,86.936,,10.0,Finished,1.0,40.035,2020,11,Eifel Grand Prix
+20,Kevin Magnussen,Haas F1 Team,15.0,87.231,87.125,,13.0,Finished,0.0,49.585,2020,11,Eifel Grand Prix
+8,Romain Grosjean,Haas F1 Team,16.0,87.552,,,9.0,Finished,2.0,39.081,2020,11,Eifel Grand Prix
+63,George Russell,Williams,17.0,87.564,,,20.0,Collision,0.0,,2020,11,Eifel Grand Prix
+6,Nicholas Latifi,Williams,18.0,87.812,,,14.0,Finished,0.0,54.449,2020,11,Eifel Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,19.0,87.817,,,12.0,Finished,0.0,41.476,2020,11,Eifel Grand Prix
+27,Nico Hulkenberg,Racing Point,20.0,88.021,,,8.0,Finished,4.0,32.596,2020,11,Eifel Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,76.828,76.824,76.652,1.0,Finished,26.0,5396.828,2020,12,Portuguese Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,76.945,76.466,76.754,2.0,Finished,18.0,25.592,2020,12,Portuguese Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,76.879,77.038,76.904,3.0,Finished,15.0,34.508,2020,12,Portuguese Grand Prix
+16,Charles Leclerc,Ferrari,4.0,77.421,77.367,77.09,4.0,Finished,12.0,65.312,2020,12,Portuguese Grand Prix
+11,Sergio Perez,Racing Point,5.0,77.37,77.129,77.223,7.0,+1 Lap,6.0,,2020,12,Portuguese Grand Prix
+23,Alexander Albon,Red Bull Racing,6.0,77.435,77.411,77.437,12.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+55,Carlos Sainz,McLaren,7.0,77.627,77.183,77.52,6.0,+1 Lap,8.0,,2020,12,Portuguese Grand Prix
+4,Lando Norris,McLaren,8.0,77.547,77.321,77.525,13.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+10,Pierre Gasly,AlphaTauri,9.0,77.209,77.367,77.803,5.0,+1 Lap,10.0,,2020,12,Portuguese Grand Prix
+3,Daniel Ricciardo,Renault,10.0,77.621,77.481,,9.0,+1 Lap,2.0,,2020,12,Portuguese Grand Prix
+31,Esteban Ocon,Renault,11.0,77.775,77.614,,8.0,+1 Lap,4.0,,2020,12,Portuguese Grand Prix
+18,Lance Stroll,Racing Point,12.0,77.667,77.626,,20.0,Collision damage,0.0,,2020,12,Portuguese Grand Prix
+26,Daniil Kvyat,AlphaTauri,13.0,77.841,77.728,,19.0,+2 Laps,0.0,,2020,12,Portuguese Grand Prix
+63,George Russell,Williams,14.0,77.931,77.788,,14.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+5,Sebastian Vettel,Ferrari,15.0,77.446,77.919,,10.0,+1 Lap,1.0,,2020,12,Portuguese Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,78.201,,,11.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,17.0,78.323,,,15.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+8,Romain Grosjean,Haas F1 Team,18.0,78.364,,,17.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+20,Kevin Magnussen,Haas F1 Team,19.0,78.508,,,16.0,+1 Lap,0.0,,2020,12,Portuguese Grand Prix
+6,Nicholas Latifi,Williams,20.0,78.777,,,18.0,+2 Laps,0.0,,2020,12,Portuguese Grand Prix
+77,Valtteri Bottas,Mercedes,1.0,74.221,74.585,73.609,2.0,Finished,18.0,5.783,2020,13,Emilia Romagna Grand Prix
+44,Lewis Hamilton,Mercedes,2.0,74.229,74.643,73.706,1.0,Finished,26.0,5312.43,2020,13,Emilia Romagna Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,75.034,74.974,74.176,17.0,Puncture,0.0,,2020,13,Emilia Romagna Grand Prix
+10,Pierre Gasly,AlphaTauri,4.0,75.183,74.681,74.502,20.0,Water pressure,0.0,,2020,13,Emilia Romagna Grand Prix
+3,Daniel Ricciardo,Renault,5.0,75.474,74.953,74.52,3.0,Finished,15.0,14.32,2020,13,Emilia Romagna Grand Prix
+23,Alexander Albon,Red Bull Racing,6.0,75.402,74.745,74.572,15.0,Finished,0.0,57.284,2020,13,Emilia Romagna Grand Prix
+16,Charles Leclerc,Ferrari,7.0,75.123,75.017,74.616,5.0,Finished,10.0,19.111,2020,13,Emilia Romagna Grand Prix
+26,Daniil Kvyat,AlphaTauri,8.0,75.412,75.022,74.696,4.0,Finished,12.0,15.141,2020,13,Emilia Romagna Grand Prix
+4,Lando Norris,McLaren,9.0,75.274,75.051,74.814,8.0,Finished,4.0,21.131,2020,13,Emilia Romagna Grand Prix
+55,Carlos Sainz,McLaren,10.0,75.528,75.027,74.911,7.0,Finished,6.0,20.23,2020,13,Emilia Romagna Grand Prix
+11,Sergio Perez,Racing Point,11.0,75.407,75.061,,6.0,Finished,8.0,19.652,2020,13,Emilia Romagna Grand Prix
+31,Esteban Ocon,Renault,12.0,75.352,75.201,,19.0,Gearbox,0.0,,2020,13,Emilia Romagna Grand Prix
+63,George Russell,Williams,13.0,75.76,75.323,,16.0,Accident,0.0,,2020,13,Emilia Romagna Grand Prix
+5,Sebastian Vettel,Ferrari,14.0,75.571,75.385,,12.0,Finished,0.0,28.453,2020,13,Emilia Romagna Grand Prix
+18,Lance Stroll,Racing Point,15.0,75.822,75.494,,13.0,Finished,0.0,29.163,2020,13,Emilia Romagna Grand Prix
+8,Romain Grosjean,Haas F1 Team,16.0,75.918,,,14.0,Finished,0.0,32.935,2020,13,Emilia Romagna Grand Prix
+20,Kevin Magnussen,Haas F1 Team,17.0,75.939,,,18.0,Illness,0.0,,2020,13,Emilia Romagna Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,18.0,75.953,,,9.0,Finished,2.0,22.224,2020,13,Emilia Romagna Grand Prix
+6,Nicholas Latifi,Williams,19.0,75.987,,,11.0,Finished,0.0,27.135,2020,13,Emilia Romagna Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,20.0,76.208,,,10.0,Finished,1.0,26.398,2020,13,Emilia Romagna Grand Prix
+18,Lance Stroll,Racing Point,1.0,127.467,113.372,107.765,9.0,Finished,2.0,72.353,2020,14,Turkish Grand Prix
+33,Max Verstappen,Red Bull Racing,2.0,117.485,110.293,108.055,6.0,Finished,8.0,44.873,2020,14,Turkish Grand Prix
+11,Sergio Perez,Racing Point,3.0,127.614,114.097,109.321,2.0,Finished,18.0,31.633,2020,14,Turkish Grand Prix
+23,Alexander Albon,Red Bull Racing,4.0,119.431,112.282,110.448,7.0,Finished,6.0,46.484,2020,14,Turkish Grand Prix
+3,Daniel Ricciardo,Renault,5.0,125.598,114.278,111.595,10.0,Finished,1.0,95.46,2020,14,Turkish Grand Prix
+44,Lewis Hamilton,Mercedes,6.0,127.599,112.709,112.56,1.0,Finished,25.0,6139.313,2020,14,Turkish Grand Prix
+31,Esteban Ocon,Renault,7.0,126.115,113.657,112.622,11.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,8.0,121.249,113.793,112.745,15.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+77,Valtteri Bottas,Mercedes,9.0,127.001,113.767,113.258,14.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,10.0,127.341,113.431,117.226,20.0,Gearbox,0.0,,2020,14,Turkish Grand Prix
+4,Lando Norris,McLaren,11.0,127.167,114.945,,8.0,Finished,5.0,61.259,2020,14,Turkish Grand Prix
+5,Sebastian Vettel,Ferrari,12.0,123.356,115.169,,3.0,Finished,15.0,31.96,2020,14,Turkish Grand Prix
+55,Carlos Sainz,McLaren,13.0,127.489,115.41,,5.0,Finished,10.0,34.363,2020,14,Turkish Grand Prix
+16,Charles Leclerc,Ferrari,14.0,124.464,116.696,,4.0,Finished,12.0,33.858,2020,14,Turkish Grand Prix
+10,Pierre Gasly,AlphaTauri,15.0,125.579,118.556,,13.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,128.007,,,17.0,Withdrew,0.0,,2020,14,Turkish Grand Prix
+26,Daniil Kvyat,AlphaTauri,17.0,129.07,,,12.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+63,George Russell,Williams,18.0,130.017,,,16.0,+1 Lap,0.0,,2020,14,Turkish Grand Prix
+8,Romain Grosjean,Haas F1 Team,19.0,132.909,,,18.0,Collision damage,0.0,,2020,14,Turkish Grand Prix
+6,Nicholas Latifi,Williams,20.0,141.611,,,19.0,Collision damage,0.0,,2020,14,Turkish Grand Prix
+44,Lewis Hamilton,Mercedes,1.0,88.343,87.586,87.264,1.0,Finished,25.0,10787.515,2020,15,Bahrain Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,88.767,88.063,87.553,8.0,Finished,4.0,19.68,2020,15,Bahrain Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,88.885,88.025,87.678,2.0,Finished,19.0,1.254,2020,15,Bahrain Grand Prix
+23,Alexander Albon,Red Bull Racing,4.0,88.732,88.749,88.274,3.0,Finished,15.0,8.005,2020,15,Bahrain Grand Prix
+11,Sergio Perez,Racing Point,5.0,89.178,88.894,88.322,18.0,Engine,0.0,,2020,15,Bahrain Grand Prix
+3,Daniel Ricciardo,Renault,6.0,89.005,88.648,88.417,7.0,Finished,6.0,19.368,2020,15,Bahrain Grand Prix
+31,Esteban Ocon,Renault,7.0,89.203,88.937,88.419,9.0,Finished,2.0,22.803,2020,15,Bahrain Grand Prix
+10,Pierre Gasly,AlphaTauri,8.0,88.971,89.008,88.448,6.0,Finished,8.0,11.942,2020,15,Bahrain Grand Prix
+4,Lando Norris,McLaren,9.0,89.464,88.877,88.542,4.0,Finished,12.0,11.337,2020,15,Bahrain Grand Prix
+26,Daniil Kvyat,AlphaTauri,10.0,89.158,88.944,88.618,11.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+5,Sebastian Vettel,Ferrari,11.0,89.142,89.149,,13.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+16,Charles Leclerc,Ferrari,12.0,89.137,89.165,,10.0,+1 Lap,1.0,,2020,15,Bahrain Grand Prix
+18,Lance Stroll,Racing Point,13.0,88.679,89.557,,19.0,Collision,0.0,,2020,15,Bahrain Grand Prix
+63,George Russell,Williams,14.0,89.294,91.218,,12.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+55,Carlos Sainz,McLaren,15.0,88.975,,,5.0,Finished,10.0,11.787,2020,15,Bahrain Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,16.0,89.491,,,16.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,17.0,89.81,,,15.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+20,Kevin Magnussen,Haas F1 Team,18.0,90.111,,,17.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+8,Romain Grosjean,Haas F1 Team,19.0,90.138,,,20.0,Collision,0.0,,2020,15,Bahrain Grand Prix
+6,Nicholas Latifi,Williams,20.0,90.182,,,14.0,+1 Lap,0.0,,2020,15,Bahrain Grand Prix
+77,Valtteri Bottas,Mercedes,1.0,53.904,53.803,53.377,8.0,Finished,4.0,15.389,2020,16,Sakhir Grand Prix
+63,George Russell,Mercedes,2.0,54.16,53.819,53.403,9.0,Finished,3.0,18.556,2020,16,Sakhir Grand Prix
+33,Max Verstappen,Red Bull Racing,3.0,54.037,53.647,53.433,19.0,Accident,0.0,,2020,16,Sakhir Grand Prix
+16,Charles Leclerc,Ferrari,4.0,54.249,53.825,53.613,20.0,Collision,0.0,,2020,16,Sakhir Grand Prix
+11,Sergio Perez,Racing Point,5.0,54.236,53.787,53.79,1.0,Finished,25.0,5475.114,2020,16,Sakhir Grand Prix
+26,Daniil Kvyat,AlphaTauri,6.0,54.346,53.856,53.906,7.0,Finished,6.0,14.534,2020,16,Sakhir Grand Prix
+3,Daniel Ricciardo,Renault,7.0,54.388,53.871,53.957,5.0,Finished,10.0,13.33,2020,16,Sakhir Grand Prix
+55,Carlos Sainz,McLaren,8.0,54.45,53.818,54.01,4.0,Finished,12.0,12.58,2020,16,Sakhir Grand Prix
+10,Pierre Gasly,AlphaTauri,9.0,54.207,53.941,54.154,11.0,Finished,0.0,20.527,2020,16,Sakhir Grand Prix
+18,Lance Stroll,Racing Point,10.0,54.595,53.84,54.2,3.0,Finished,15.0,11.869,2020,16,Sakhir Grand Prix
+31,Esteban Ocon,Renault,11.0,54.309,53.995,,2.0,Finished,18.0,10.518,2020,16,Sakhir Grand Prix
+23,Alexander Albon,Red Bull Racing,12.0,54.62,54.026,,6.0,Finished,8.0,13.842,2020,16,Sakhir Grand Prix
+5,Sebastian Vettel,Ferrari,13.0,54.301,54.175,,12.0,Finished,0.0,22.611,2020,16,Sakhir Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,54.523,54.377,,13.0,Finished,0.0,24.111,2020,16,Sakhir Grand Prix
+4,Lando Norris,McLaren,15.0,54.194,54.693,,10.0,Finished,1.0,19.541,2020,16,Sakhir Grand Prix
+20,Kevin Magnussen,Haas F1 Team,16.0,54.705,,,15.0,Finished,0.0,32.37,2020,16,Sakhir Grand Prix
+6,Nicholas Latifi,Williams,17.0,54.796,,,18.0,Engine,0.0,,2020,16,Sakhir Grand Prix
+89,Jack Aitken,Williams,18.0,54.892,,,16.0,Finished,0.0,33.674,2020,16,Sakhir Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,19.0,54.963,,,14.0,Finished,0.0,26.153,2020,16,Sakhir Grand Prix
+51,Pietro Fittipaldi,Haas F1 Team,20.0,55.426,,,17.0,Finished,0.0,36.858,2020,16,Sakhir Grand Prix
+33,Max Verstappen,Red Bull Racing,1.0,95.993,95.641,95.246,1.0,Finished,25.0,5788.645,2020,17,Abu Dhabi Grand Prix
+77,Valtteri Bottas,Mercedes,2.0,95.699,95.527,95.271,2.0,Finished,18.0,15.976,2020,17,Abu Dhabi Grand Prix
+44,Lewis Hamilton,Mercedes,3.0,95.528,95.466,95.332,3.0,Finished,15.0,18.415,2020,17,Abu Dhabi Grand Prix
+4,Lando Norris,McLaren,4.0,96.016,95.849,95.497,5.0,Finished,10.0,60.729,2020,17,Abu Dhabi Grand Prix
+23,Alexander Albon,Red Bull Racing,5.0,96.106,95.654,95.571,4.0,Finished,12.0,19.987,2020,17,Abu Dhabi Grand Prix
+55,Carlos Sainz,McLaren,6.0,96.517,96.192,95.815,6.0,Finished,8.0,65.662,2020,17,Abu Dhabi Grand Prix
+26,Daniil Kvyat,AlphaTauri,7.0,96.459,96.214,95.963,11.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+18,Lance Stroll,Racing Point,8.0,96.502,96.143,96.046,10.0,Finished,1.0,1.669,2020,17,Abu Dhabi Grand Prix
+16,Charles Leclerc,Ferrari,9.0,95.881,95.932,96.065,13.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+10,Pierre Gasly,AlphaTauri,10.0,96.545,96.282,96.242,8.0,Finished,4.0,89.718,2020,17,Abu Dhabi Grand Prix
+31,Esteban Ocon,Renault,11.0,96.783,96.359,,9.0,Finished,2.0,11.351,2020,17,Abu Dhabi Grand Prix
+3,Daniel Ricciardo,Renault,12.0,96.704,96.406,,7.0,Finished,7.0,73.748,2020,17,Abu Dhabi Grand Prix
+5,Sebastian Vettel,Ferrari,13.0,96.655,96.631,,14.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+99,Antonio Giovinazzi,Alfa Romeo Racing,14.0,97.075,98.248,,16.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+11,Sergio Perez,Racing Point,15.0,96.034,,,20.0,Transmission,0.0,,2020,17,Abu Dhabi Grand Prix
+7,Kimi Räikkönen,Alfa Romeo Racing,16.0,97.555,,,12.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+20,Kevin Magnussen,Haas F1 Team,17.0,97.863,,,18.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+63,George Russell,Williams,18.0,98.045,,,15.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
+51,Pietro Fittipaldi,Haas F1 Team,19.0,98.173,,,19.0,+2 Laps,0.0,,2020,17,Abu Dhabi Grand Prix
+6,Nicholas Latifi,Williams,20.0,98.443,,,17.0,+1 Lap,0.0,,2020,17,Abu Dhabi Grand Prix
