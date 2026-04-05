@@ -52,6 +52,8 @@ train_timedelta_mean = df[df['Season'] <= 2024]['TimeDelta'].mean()
 df['driver_rolling_avg_timedelta_3'] = df['driver_rolling_avg_timedelta_3'].fillna(train_timedelta_mean)
 df['driver_rolling_avg_timedelta_5'] = df['driver_rolling_avg_timedelta_5'].fillna(train_timedelta_mean)
 
+df = df.dropna(subset=['best_q_time'])
+
 drop_cols = ['Points', 'TimeDelta', 'TimeDetla', 'Podium', 'Status', 'Time',
              'Q1_seconds', 'Q2_seconds', 'Q3_seconds', 'best_q_time',
              'driver_rolling_avg_timedelta_3', 'team_rolling_avg_3']
@@ -64,8 +66,6 @@ driverDummy = pd.get_dummies(df['FullName'],  prefix='Driver')
 eventDummy  = pd.get_dummies(df['EventName'], prefix='Event')
 df = df.drop(columns=['TeamName', 'FullName', 'EventName'])
 df = pd.concat([df, teamDummy, driverDummy, eventDummy], axis=1)
-
-df = df.dropna(subset=['best_q_time'])
 
 df_train = df[df['Season'] <= 2024]
 df_eval  = df[df['Season'] == 2025]
