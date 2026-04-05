@@ -1,7 +1,9 @@
 # ── Describe changes made since the previous run ──────────────────────────────
 # Update this before each run so the report is self-documenting.
 MODEL_CHANGES = """
-- Increased n_estimators from 100 to 200
+- Added driver_track_history_avg feature
+- Removed redundant FinishPosition column from CSVs (using RacePosition everywhere)
+- Synced generate_report.py with notebook: max_depth=None, dropna on best_q_time, load from combined CSV
 """
 
 import pandas as pd
@@ -14,9 +16,7 @@ import os
 
 # ── Pipeline ──────────────────────────────────────────────────────────────────
 
-years = range(2020, 2026)
-dfs = [pd.read_csv(f'data/f1_{year}.csv') for year in years]
-df = pd.concat(dfs, ignore_index=True)
+df = pd.read_csv('data/f1_2020_2025.csv')
 df = df.sort_values(['Season', 'Round']).reset_index(drop=True)
 
 df = df.drop(columns=['Time', 'Podium', 'Points', 'Status', 'DriverNumber'], errors='ignore')
@@ -65,7 +65,7 @@ eventDummy  = pd.get_dummies(df['EventName'], prefix='Event')
 df = df.drop(columns=['TeamName', 'FullName', 'EventName'])
 df = pd.concat([df, teamDummy, driverDummy, eventDummy], axis=1)
 
-df = df.dropna(subset=['quali_delta_to_teammate'])
+df = df.dropna(subset=['best_q_time'])
 
 df_train = df[df['Season'] <= 2024]
 df_eval  = df[df['Season'] == 2025]
@@ -78,7 +78,7 @@ mask = y_train.notna()
 X_train = X_train[mask]
 y_train = y_train[mask]
 
-rf = RandomForestRegressor(n_estimators=100, max_depth=10, max_features='sqrt', min_samples_split=2, random_state=42)
+rf = RandomForestRegressor(n_estimators=100, max_depth=None, max_features='sqrt', min_samples_split=2, random_state=42)
 rf.fit(X_train, y_train)
 
 y_pred = rf.predict(X_val)
