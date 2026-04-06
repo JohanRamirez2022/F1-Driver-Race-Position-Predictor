@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_context7_context7__query-docs",
+      "Bash(python -c \"import pandas as pd; df = pd.read_csv\\('data/f1_2020_2025.csv'\\); print\\(df.columns.tolist\\(\\)\\); print\\(df.shape\\); print\\(df.head\\(3\\).to_string\\(\\)\\)\")",
+      "Bash(python -c ':*)",
+      "Bash(pip show:*)",
+      "Bash(where python:*)",
+      "Bash(py -0)",
+      "Bash(C:\\\\Users\\\\Ramir\\\\anaconda3\\\\python.exe:*)",
+      "Bash(/c/Users/Ramir/anaconda3/python.exe:*)",
+      "Bash(\"/c/Users/Ramir/anaconda3/python.exe\" -c \"import sys; print\\(sys.executable\\); print\\(sys.path\\)\")",
+      "Read(//c/Users/Ramir/anaconda3/envs//**)",
+      "Bash(/c/Users/Ramir/anaconda3/envs/F1/python.exe:*)",
+      "Bash(\"/c/Users/Ramir/anaconda3/envs/F1/python.exe\" generate_report.py)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(py -c \"import pandas; print\\(pandas.__version__\\)\")",
+      "Bash(conda run:*)",
+      "Bash(where jupyter:*)",
+      "Read(//c/Users/Ramir/AppData/Local/Programs/Python/**)",
+      "Read(//c/Users/Ramir/miniconda3/**)",
+      "Read(//c/ProgramData/miniconda3/**)",
+      "Bash(rm:*)",
+      "Bash(ls *.py report_*.md graph_*.png)",
+      "Bash(rm hamilton_avg.py graph_bar.png graph_scatter.png report_2026-04-04_18-17.md report_2026-04-04_19-02.md report_2026-04-04_19-07.md report_2026-04-04_19-08.md report_2026-04-04_19-12.md report_2026-04-04_19-29.md)",
+      "Bash(ls report_*.md *.py)",
+      "Bash(/c/Users/Ramir/miniconda3/condabin/conda run:*)"
+    ]
+  }
+}
