@@ -255,7 +255,10 @@ df_eval_ref.sort_values(['Round', 'Predicted_Rank']).to_csv(PREV_FILE, index=Fal
 # ── Write report ──────────────────────────────────────────────────────────────
 
 now = datetime.now()
-report_filename = f"report_{now.strftime('%Y-%m-%d_%H-%M')}.md"
+REPORT_DIR = 'reports'
+os.makedirs(REPORT_DIR, exist_ok = True)
+
+report_filename = os.path.join(REPORT_DIR, f"report_{now.strftime('%Y-%m-%d_%H-%M')}.md")
 
 lines = []
 lines.append(f"# F1 2025 Prediction Report")
@@ -302,6 +305,7 @@ for round_num in sorted(df_eval_ref['Round'].unique()):
         xgb_rank = int(row['XGB Rank']) if pd.notna(row['XGB Rank']) else 'N/A'
         lines.append(f"| P{int(row['Predicted_Rank'])} | P{xgb_rank} | {row['FullName']} | P{actual} |")
     lines.append("")
+
 
 with open(report_filename, 'w', encoding='utf-8') as f:
     f.write('\n'.join(lines))

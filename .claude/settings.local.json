@@ -25,7 +25,9 @@
       "Bash(ls *.py report_*.md graph_*.png)",
       "Bash(rm hamilton_avg.py graph_bar.png graph_scatter.png report_2026-04-04_18-17.md report_2026-04-04_19-02.md report_2026-04-04_19-07.md report_2026-04-04_19-08.md report_2026-04-04_19-12.md report_2026-04-04_19-29.md)",
       "Bash(ls report_*.md *.py)",
-      "Bash(/c/Users/Ramir/miniconda3/condabin/conda run:*)"
+      "Bash(/c/Users/Ramir/miniconda3/condabin/conda run:*)",
+      "Bash(/c/Users/Ramir/anaconda3/condabin/conda.bat run -n F1 python -c ':*)",
+      "Bash(\"/c/Users/Ramir/anaconda3/condabin/conda.bat\" run:*)"
     ]
   }
 }
